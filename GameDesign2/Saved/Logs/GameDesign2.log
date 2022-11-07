@@ -833,3 +833,562 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.07-15.19.26:615][639]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
 [2022.11.07-15.19.26:616][639]PIE: Server logged in
 [2022.11.07-15.19.26:617][639]PIE: Play in editor total start time 0.171 seconds.
+[2022.11.07-15.24.41:345][941]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\5926008386\OneDrive - School Board of Seminole County\Game and Simulation Design\First Semester\2nd 9 Weeks\4_Adkins_CharacterComplete.png)
+[2022.11.07-15.24.41:348][941]LogTexture: Display: Building textures: 4_Adkins_CharacterComplete (AutoDXT, 160X160)
+[2022.11.07-15.25.00:339][196]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\5926008386\OneDrive - School Board of Seminole County\Game and Simulation Design\First Semester\2nd 9 Weeks\4_Adkins_BuildingTileSet.png)
+[2022.11.07-15.25.00:340][196]LogTexture: Display: Building textures: 4_Adkins_BuildingTileSet (AutoDXT, 64X64)
+[2022.11.07-15.25.51:032][613]LogTexture: Display: Building textures: 4_Adkins_BuildingTileSet (BGRA8, 64X64)
+[2022.11.07-15.25.53:552][894]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/4_Adkins_BuildingTileSet.4_Adkins_BuildingTileSet
+[2022.11.07-15.25.53:567][894]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.11.07-15.25.55:388][ 90]LogSlate: Window '4_Adkins_BuildingTileSet' being destroyed
+[2022.11.07-15.25.55:393][ 90]LogSlate: Window '4_Adkins_BuildingTileSet' being destroyed
+[2022.11.07-15.26.04:376][992]LogTexture: Display: Building textures: 4_Adkins_CharacterComplete (BGRA8, 160X160)
+[2022.11.07-15.26.05:530][122]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete.4_Adkins_CharacterComplete
+[2022.11.07-15.26.11:129][774]LogSlate: Window '4_Adkins_CharacterComplete' being destroyed
+[2022.11.07-15.26.11:134][774]LogSlate: Window '4_Adkins_CharacterComplete' being destroyed
+[2022.11.07-15.26.28:414][313]LogContentBrowser: Deferred new asset file creation: 4_Adkins_CharacterComplete_Volume
+[2022.11.07-15.26.28:425][313]LogContentBrowser: Creating deferred item: 4_Adkins_CharacterComplete_Volume
+[2022.11.07-15.26.30:042][424]LogContentBrowser: Attempting asset rename: 4_Adkins_CharacterComplete_Volume -> 4_Adkins_CharacterComplete_Volume
+[2022.11.07-15.26.30:161][424]LogTexture: Display: Building textures: 4_Adkins_CharacterComplete_Volume (AutoDXT, 32X32)
+[2022.11.07-15.26.30:170][424]LogContentBrowser: End creating deferred item 4_Adkins_CharacterComplete_Volume
+[2022.11.07-15.27.05:436][329]LogSlate: Window 'Undo History' being destroyed
+[2022.11.07-15.27.05:440][329]LogSlate: Window 'Undo History' being destroyed
+[2022.11.07-15.28.19:797][ 83]LogSlate: Took 0.006986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.07-15.28.51:491][415]LogSlate: Window 'Extract sprites' being destroyed
+[2022.11.07-15.29.03:946][860]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.07-15.29.03:952][860]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.07-15.29.08:190][366]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.11.07-15.29.08:190][366]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.07-15.30.08:412][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit068828154104FE4014A2C586311258BD.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_0.uasset'
+[2022.11.07-15.30.08:646][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritD5C29F5446377D22BCCD76885179F18D.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_1.uasset'
+[2022.11.07-15.30.08:857][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit18227DDF47A4531C82A7AF9B1137E7D8.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_2.uasset'
+[2022.11.07-15.30.09:062][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritB339C6D140900CF730FD00AD5AB46527.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_3.uasset'
+[2022.11.07-15.30.09:273][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit1DCE7C8944F6AFC9AB586299EC8BA214.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_4.uasset'
+[2022.11.07-15.30.09:469][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit4920A2DA455FB70BBA8499B42C24073A.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_5.uasset'
+[2022.11.07-15.30.09:691][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit71D7CF9A462D1A6F09A67C9E612A9D55.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_6.uasset'
+[2022.11.07-15.30.09:920][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritBC4480B34C605A11549ABABB7F6B8235.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_7.uasset'
+[2022.11.07-15.30.10:142][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit7C24A16347225F180DC01A9EE47CDE4F.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_8.uasset'
+[2022.11.07-15.30.10:360][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritEA4F4BFE4253D59A40D84081AC79F573.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_9.uasset'
+[2022.11.07-15.30.10:564][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritDB6CF0C94B42F5230BABFDB1D2618212.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_10.uasset'
+[2022.11.07-15.30.10:776][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritEDFBC39C4075AEA890B5D7BAAAA4AD4A.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_11.uasset'
+[2022.11.07-15.30.10:982][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit5020A8C046632032604AF3A75798291D.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_12.uasset'
+[2022.11.07-15.30.11:193][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritFBCFBCC140D8E71AEEDF9D9932E5528E.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_13.uasset'
+[2022.11.07-15.30.11:410][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit27DD0432456291C5AAD46297774EF536.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_14.uasset'
+[2022.11.07-15.30.11:627][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritD94ADF464859E0A311B775AFC0B7B7D7.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_15.uasset'
+[2022.11.07-15.30.11:855][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit36A236D74FC122A60FEA15A4308BF60B.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_16.uasset'
+[2022.11.07-15.30.12:067][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit1460ECF54916E0C06E9D1AA470BB8947.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_17.uasset'
+[2022.11.07-15.30.12:278][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritCA89EEF44D4181F80EB194B37C4F1034.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_18.uasset'
+[2022.11.07-15.30.12:483][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit5A99E46A4B347C0A99D313BBDF07EE72.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_19.uasset'
+[2022.11.07-15.30.12:683][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit31EA5A634E0B5F835C583096447CB869.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_20.uasset'
+[2022.11.07-15.30.12:905][132]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit642C34AC4E3CA581A6DD74AFD254922E.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_21.uasset'
+[2022.11.07-15.30.15:623][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.07-15.30.15:627][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.30.15:631][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-15.30.15:635][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.30.15:639][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.30.15:643][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.30.15:647][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-15.30.15:651][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-15.30.15:655][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.30.15:660][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.30.15:664][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.30.15:668][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-15.30.15:672][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.30.15:676][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.30.15:680][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.07-15.30.15:684][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.30.15:688][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.30.15:692][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.30.15:696][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.07-15.30.15:700][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-15.30.15:704][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.30.15:708][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-15.30.15:712][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.07-15.30.15:716][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.30.15:747][132]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_21.4_Adkins_CharacterComplete_Sprite_21
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_20.4_Adkins_CharacterComplete_Sprite_20
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_19.4_Adkins_CharacterComplete_Sprite_19
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_18.4_Adkins_CharacterComplete_Sprite_18
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_17.4_Adkins_CharacterComplete_Sprite_17
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_16.4_Adkins_CharacterComplete_Sprite_16
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_15.4_Adkins_CharacterComplete_Sprite_15
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_14.4_Adkins_CharacterComplete_Sprite_14
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_13.4_Adkins_CharacterComplete_Sprite_13
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_12.4_Adkins_CharacterComplete_Sprite_12
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_11.4_Adkins_CharacterComplete_Sprite_11
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_10.4_Adkins_CharacterComplete_Sprite_10
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_9.4_Adkins_CharacterComplete_Sprite_9
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_8.4_Adkins_CharacterComplete_Sprite_8
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_7.4_Adkins_CharacterComplete_Sprite_7
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_6.4_Adkins_CharacterComplete_Sprite_6
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_5.4_Adkins_CharacterComplete_Sprite_5
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_4.4_Adkins_CharacterComplete_Sprite_4
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_3.4_Adkins_CharacterComplete_Sprite_3
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_2.4_Adkins_CharacterComplete_Sprite_2
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_1.4_Adkins_CharacterComplete_Sprite_1
+[2022.11.07-15.30.15:747][132]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_0.4_Adkins_CharacterComplete_Sprite_0
+[2022.11.07-15.30.39:202][605]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_BuildingTileSet2F4ED136423BFA2194891FBE84BC79D3.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_BuildingTileSet.uasset'
+[2022.11.07-15.30.39:559][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.07-15.30.39:563][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.07-15.30.39:567][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.30.39:591][605]AssetCheck: New page: Asset Save: 4_Adkins_BuildingTileSet
+[2022.11.07-15.30.39:591][605]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/4_Adkins_BuildingTileSet.4_Adkins_BuildingTileSet
+[2022.11.07-15.34.11:680][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritE44D74E94288E0CB8FBC008CCDA1901B.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_0.uasset'
+[2022.11.07-15.34.11:892][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritFB19724448896DC9723C609FF2A548F9.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_1.uasset'
+[2022.11.07-15.34.12:080][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit5DB6A07646193E300CE7558085B33680.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_2.uasset'
+[2022.11.07-15.34.12:279][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit578FF5FD4110209B6F63D99621F90803.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_3.uasset'
+[2022.11.07-15.34.12:490][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit593720D74AACD6193436E99984435707.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_4.uasset'
+[2022.11.07-15.34.12:692][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit3F7FEDBB42AFFB80F4BFE28F7A5CE334.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_5.uasset'
+[2022.11.07-15.34.12:903][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit3816412045B78C235E8A69A3B2F1D802.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_6.uasset'
+[2022.11.07-15.34.13:098][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritA93485364A061AAFC2BE49959AA70361.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_7.uasset'
+[2022.11.07-15.34.13:320][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit822E2F3F4157319B80FD0B86DC94D3EE.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_8.uasset'
+[2022.11.07-15.34.13:524][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit2D83630A4591E911CBBAF6A5B10C92E6.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_9.uasset'
+[2022.11.07-15.34.13:714][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit5523DF0E4168474A403169B61F75351B.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_10.uasset'
+[2022.11.07-15.34.13:925][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritCEF5F8454B05AAAE064ED287E69ACE45.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_13.uasset'
+[2022.11.07-15.34.14:115][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit53E4619147B79A5D5F7723A42832E50F.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_12.uasset'
+[2022.11.07-15.34.14:326][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit05EA51494A0009913132B6B061C9FB0A.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_11.uasset'
+[2022.11.07-15.34.14:527][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit2E5AB37945CE723E33DA52A0EC5AE2FC.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_21.uasset'
+[2022.11.07-15.34.14:715][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit0EC57B5E44B5EC3EE1A6AD9C438DE4E3.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_20.uasset'
+[2022.11.07-15.34.14:927][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritEEBF2AF84A4B4D73E3D8D182C1B3A0F7.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_19.uasset'
+[2022.11.07-15.34.15:115][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit12D27D3143EB75F05372C5A509667AD9.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_18.uasset'
+[2022.11.07-15.34.15:329][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritC7F3781D487D6F0D842A6CAA14CBA277.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_17.uasset'
+[2022.11.07-15.34.15:527][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritA8F830AA47E9D9B1F0095AA1BCB68565.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_16.uasset'
+[2022.11.07-15.34.15:707][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit31E6AF07477DD63D531A588924D2597E.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_15.uasset'
+[2022.11.07-15.34.15:911][944]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritD013599A4D1F3F8F8B2C8D90BFB310E1.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_14.uasset'
+[2022.11.07-15.34.18:792][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.07-15.34.18:796][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:801][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:804][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:808][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:812][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:816][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-15.34.18:820][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:824][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:828][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:832][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:836][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:840][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:844][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:848][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.11.07-15.34.18:851][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:855][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:859][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:863][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-15.34.18:867][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-15.34.18:871][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:875][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.34.18:879][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.07-15.34.18:883][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_0.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_1.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_10.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_11.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_12.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_13.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_14.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_15.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_16.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_17.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_18.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_19.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_2.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_20.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_21.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_3.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_4.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_5.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_6.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_7.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_8.uasset'
+[2022.11.07-15.34.19:086][944]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Animations/4_Adkins_CharacterComplete_Sprite_9.uasset'
+[2022.11.07-15.34.19:114][944]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_21.4_Adkins_CharacterComplete_Sprite_21
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_20.4_Adkins_CharacterComplete_Sprite_20
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_19.4_Adkins_CharacterComplete_Sprite_19
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_18.4_Adkins_CharacterComplete_Sprite_18
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_17.4_Adkins_CharacterComplete_Sprite_17
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_16.4_Adkins_CharacterComplete_Sprite_16
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_15.4_Adkins_CharacterComplete_Sprite_15
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_14.4_Adkins_CharacterComplete_Sprite_14
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_13.4_Adkins_CharacterComplete_Sprite_13
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_12.4_Adkins_CharacterComplete_Sprite_12
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_11.4_Adkins_CharacterComplete_Sprite_11
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_10.4_Adkins_CharacterComplete_Sprite_10
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_9.4_Adkins_CharacterComplete_Sprite_9
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_8.4_Adkins_CharacterComplete_Sprite_8
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_7.4_Adkins_CharacterComplete_Sprite_7
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_6.4_Adkins_CharacterComplete_Sprite_6
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_5.4_Adkins_CharacterComplete_Sprite_5
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_4.4_Adkins_CharacterComplete_Sprite_4
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_3.4_Adkins_CharacterComplete_Sprite_3
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_2.4_Adkins_CharacterComplete_Sprite_2
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_1.4_Adkins_CharacterComplete_Sprite_1
+[2022.11.07-15.34.19:114][944]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_0.4_Adkins_CharacterComplete_Sprite_0
+[2022.11.07-15.34.42:880][625]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_22.4_Adkins_CharacterComplete_Sprite_22
+[2022.11.07-15.34.43:019][625]LogRenderer: Reallocating scene render targets to support 1060x544 Format 10 NumSamples 1 (Frame:1).
+[2022.11.07-15.34.43:019][625]LogSlate: Took 0.005110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.07-15.34.49:666][202]LogSlate: Window '4_Adkins_CharacterComplete_Sprite_22' being destroyed
+[2022.11.07-15.34.49:674][202]LogSlate: Window '4_Adkins_CharacterComplete_Sprite_22' being destroyed
+[2022.11.07-15.34.49:676][202]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-15.34.49:676][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-15.35.43:242][743]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_BuildingTileSet9C6998DA4DC67BAC0493A89A14071983.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_BuildingTileSet.uasset'
+[2022.11.07-15.35.43:676][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.07-15.35.43:681][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.07-15.35.43:685][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.35.43:871][743]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_BuildingTileSet.uasset'
+[2022.11.07-15.35.43:896][743]AssetCheck: New page: Asset Save: 4_Adkins_BuildingTileSet
+[2022.11.07-15.35.43:896][743]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/4_Adkins_BuildingTileSet.4_Adkins_BuildingTileSet
+[2022.11.07-15.36.38:379][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.07-15.36.38:390][118]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap29F167F549731E379E5277BFC54ED681.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.07-15.36.38:521][118]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap_BuiltDaE3014B94497886E3A54725B29D27CD85.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.07-15.36.38:528][118]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-15.36.38:528][118]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.07-15.36.38:528][118]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.07-15.36.52:479][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.36.52:489][571]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMapD860AC7F402002C9C33FB88E6FDD0197.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.07-15.36.52:608][571]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap_BuiltDa38687EE94E531236AE8D358B40502632.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.07-15.36.52:615][571]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-15.36.52:615][571]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.07-15.36.52:615][571]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.07-15.36.58:470][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.36.58:587][189]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete0372084A4EE038716A9422B5B329CFAB.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete.uasset'
+[2022.11.07-15.36.58:827][189]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Volum45B695C34D1BE04C5CFCA8A5C45FC3C2.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Volume.uasset'
+[2022.11.07-15.36.59:051][189]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritC0A94F5547441698FDCA0AB76627918D.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_22.uasset'
+[2022.11.07-15.36.59:258][189]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit3CB7B1154C44579884A6FF8D9F4A25A2.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_23.uasset'
+[2022.11.07-15.36.59:459][189]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit3B1A23444B5E7FB6AEB7C5B473155D20.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_24.uasset'
+[2022.11.07-15.36.59:653][189]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-15.36.59:653][189]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete.4_Adkins_CharacterComplete
+[2022.11.07-15.36.59:653][189]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_24.4_Adkins_CharacterComplete_Sprite_24
+[2022.11.07-15.36.59:653][189]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_23.4_Adkins_CharacterComplete_Sprite_23
+[2022.11.07-15.36.59:653][189]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_22.4_Adkins_CharacterComplete_Sprite_22
+[2022.11.07-15.36.59:653][189]LogContentValidation: Display: Validating VolumeTexture /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete_Volume.4_Adkins_CharacterComplete_Volume
+[2022.11.07-15.37.21:808][517]LogTexture: Display: Building textures: 2DBackgroundTile (AutoDXT, 256X256)
+[2022.11.07-15.38.01:532][922]LogContentBrowser: Deferred new asset file creation: 4_Adkins_CharacterComplete
+[2022.11.07-15.38.01:568][922]LogContentBrowser: Creating deferred item: 4_Adkins_CharacterComplete
+[2022.11.07-15.38.04:457][ 93]LogContentBrowser: Attempting asset rename: 4_Adkins_CharacterComplete -> 4_Adkins_CharacterComplete
+[2022.11.07-15.38.04:575][ 93]LogContentBrowser: End creating deferred item 4_Adkins_CharacterComplete
+[2022.11.07-15.38.11:308][558]LogContentBrowser: Attempting asset rename: 4_Adkins_CharacterComplete -> Idle
+[2022.11.07-15.38.12:100][558]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/Idle2995B4714DF028C1CACF0C93E721BCAE.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/Idle.uasset'
+[2022.11.07-15.38.12:463][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.07-15.38.12:468][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.07-15.38.12:472][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-15.38.12:490][558]AssetCheck: New page: Asset Save: Idle
+[2022.11.07-15.38.12:490][558]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/Idle.Idle
+[2022.11.07-15.38.59:966][392]LogContentBrowser: Deferred new asset file creation: 4_Adkins_CharacterComplete
+[2022.11.07-15.38.59:993][392]LogContentBrowser: Creating deferred item: 4_Adkins_CharacterComplete
+[2022.11.07-15.39.03:687][822]LogContentBrowser: Attempting asset rename: 4_Adkins_CharacterComplete -> 4_Adkins_CharacterComplete
+[2022.11.07-15.39.03:806][822]LogContentBrowser: End creating deferred item 4_Adkins_CharacterComplete
+[2022.11.07-15.39.47:820][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-15.39.47:820][763]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.07-15.39.47:821][763]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-15.39.47:821][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-15.39.47:831][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.07-15.39.47:832][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-15.39.47:836][763]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.07-15.39.47:836][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-15.39.47:837][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-15.39.47:853][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-15.39.47:855][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.07-15.39.47:898][767]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.11.07-15.40.00:904][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.07-15.40.02:041][120]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.07-15.40.02:145][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.07-15.40.14:542][ 45]LogContentBrowser: Attempting asset rename: Idle -> PC_Idle
+[2022.11.07-15.40.15:412][ 45]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_IdleE717A3984FA6D1C45A81FE95CF70B862.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/PC_Idle.uasset'
+[2022.11.07-15.40.15:888][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.07-15.40.15:899][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.07-15.40.15:903][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-15.40.16:093][ 45]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Sprites/Idle.uasset'
+[2022.11.07-15.40.16:115][ 45]AssetCheck: New page: Asset Save: PC_Idle
+[2022.11.07-15.40.16:115][ 45]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/PC_Idle.PC_Idle
+[2022.11.07-15.40.40:110][270]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.07-15.40.40:140][270]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.07-15.40.43:581][643]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.11.07-15.40.43:581][643]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.07-15.40.52:830][510]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Idle320B6A544D40AAF7F9B9C1AE15C4195C.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Idle.uasset'
+[2022.11.07-15.40.53:325][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.07-15.40.53:336][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.07-15.40.53:340][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.40.53:531][510]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Sprites/PC_Idle.uasset'
+[2022.11.07-15.40.53:556][510]AssetCheck: New page: Asset Save: PC_Idle
+[2022.11.07-15.40.53:556][510]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Idle.PC_Idle
+[2022.11.07-15.41.02:497][829]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-15.41.02:498][829]LogContentBrowser: Deferred new asset file creation: 4_Adkins_CharacterComplete
+[2022.11.07-15.41.02:518][829]LogContentBrowser: Creating deferred item: 4_Adkins_CharacterComplete
+[2022.11.07-15.41.06:880][293]LogContentBrowser: Attempting asset rename: 4_Adkins_CharacterComplete -> PC_Hurt
+[2022.11.07-15.41.07:005][293]LogContentBrowser: End creating deferred item 4_Adkins_CharacterComplete
+[2022.11.07-15.41.12:216][758]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_HurtB6013D9F42C57D2A9EB3AEA013F6A91C.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Hurt.uasset'
+[2022.11.07-15.41.12:628][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.11.07-15.41.12:637][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.07-15.41.12:641][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-15.41.12:664][758]AssetCheck: New page: Asset Save: PC_Hurt
+[2022.11.07-15.41.12:664][758]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Hurt.PC_Hurt
+[2022.11.07-15.41.50:979][577]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-15.41.50:980][577]LogContentBrowser: Deferred new asset file creation: 4_Adkins_CharacterComplete
+[2022.11.07-15.41.50:994][577]LogContentBrowser: Creating deferred item: 4_Adkins_CharacterComplete
+[2022.11.07-15.42.00:137][541]LogContentBrowser: Attempting asset rename: 4_Adkins_CharacterComplete -> PC_JumpUp
+[2022.11.07-15.42.00:298][541]LogContentBrowser: End creating deferred item 4_Adkins_CharacterComplete
+[2022.11.07-15.42.04:669][951]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_JumpUp57B25B154C5CF16901F01CB041C14375.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_JumpUp.uasset'
+[2022.11.07-15.42.05:064][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.07-15.42.05:074][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.07-15.42.05:078][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.42.05:101][951]AssetCheck: New page: Asset Save: PC_JumpUp
+[2022.11.07-15.42.05:101][951]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_JumpUp.PC_JumpUp
+[2022.11.07-15.42.10:181][500]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-15.42.10:182][500]LogContentBrowser: Deferred new asset file creation: 4_Adkins_CharacterComplete
+[2022.11.07-15.42.10:197][500]LogContentBrowser: Creating deferred item: 4_Adkins_CharacterComplete
+[2022.11.07-15.42.15:056][ 12]LogContentBrowser: Attempting asset rename: 4_Adkins_CharacterComplete -> PC_JumpDown
+[2022.11.07-15.42.15:180][ 12]LogContentBrowser: End creating deferred item 4_Adkins_CharacterComplete
+[2022.11.07-15.42.18:665][311]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_JumpDown58D84DAD42642E86A68E75BF76B8B1B5.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_JumpDown.uasset'
+[2022.11.07-15.42.19:045][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.07-15.42.19:055][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.07-15.42.19:059][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.42.19:082][311]AssetCheck: New page: Asset Save: PC_JumpDown
+[2022.11.07-15.42.19:082][311]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_JumpDown.PC_JumpDown
+[2022.11.07-15.43.32:363][266]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-15.43.32:363][266]LogContentBrowser: Deferred new asset file creation: 4_Adkins_CharacterComplete
+[2022.11.07-15.43.32:379][266]LogContentBrowser: Creating deferred item: 4_Adkins_CharacterComplete
+[2022.11.07-15.43.36:518][702]LogContentBrowser: Attempting asset rename: 4_Adkins_CharacterComplete -> PC_Projectile
+[2022.11.07-15.43.36:656][702]LogContentBrowser: End creating deferred item 4_Adkins_CharacterComplete
+[2022.11.07-15.43.40:947][ 82]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Projectile244C44F2465E9D829D11FA9FCAFE888F.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Projectile.uasset'
+[2022.11.07-15.43.41:343][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.07-15.43.41:354][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.07-15.43.41:358][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.43.41:381][ 82]AssetCheck: New page: Asset Save: PC_Projectile
+[2022.11.07-15.43.41:381][ 82]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Projectile.PC_Projectile
+[2022.11.07-15.44.04:095][861]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-15.44.04:095][861]LogContentBrowser: Deferred new asset file creation: 4_Adkins_CharacterComplete
+[2022.11.07-15.44.04:110][861]LogContentBrowser: Creating deferred item: 4_Adkins_CharacterComplete
+[2022.11.07-15.44.07:573][228]LogContentBrowser: Attempting asset rename: 4_Adkins_CharacterComplete -> PC_Run
+[2022.11.07-15.44.07:693][228]LogContentBrowser: End creating deferred item 4_Adkins_CharacterComplete
+[2022.11.07-15.44.11:411][542]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Run7FBF74F14B18CB8AB2F3D080E9EE7968.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Run.uasset'
+[2022.11.07-15.44.11:790][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.07-15.44.11:800][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.07-15.44.11:804][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-15.44.11:827][542]AssetCheck: New page: Asset Save: PC_Run
+[2022.11.07-15.44.11:827][542]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Run.PC_Run
+[2022.11.07-15.44.17:692][143]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-15.44.17:692][143]LogContentBrowser: Deferred new asset file creation: 4_Adkins_CharacterComplete
+[2022.11.07-15.44.17:707][143]LogContentBrowser: Creating deferred item: 4_Adkins_CharacterComplete
+[2022.11.07-15.44.22:025][599]LogContentBrowser: Attempting asset rename: 4_Adkins_CharacterComplete -> PC_Shoot
+[2022.11.07-15.44.22:140][599]LogContentBrowser: End creating deferred item 4_Adkins_CharacterComplete
+[2022.11.07-15.44.26:609][ 18]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Shoot81F44ECF49EA81A14AB3B1928F304BC9.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Shoot.uasset'
+[2022.11.07-15.44.27:004][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.07-15.44.27:013][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.07-15.44.27:017][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-15.44.27:044][ 18]AssetCheck: New page: Asset Save: PC_Shoot
+[2022.11.07-15.44.27:044][ 18]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Shoot.PC_Shoot
+[2022.11.07-15.45.02:991][168]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Hurt.PC_Hurt
+[2022.11.07-15.45.11:138][708]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Hurt859A50544FB658545EE121AF5C5A0D17.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Hurt.uasset'
+[2022.11.07-15.45.11:146][708]AssetCheck: New page: Asset Save: PC_Hurt
+[2022.11.07-15.45.11:146][708]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Hurt.PC_Hurt
+[2022.11.07-15.45.12:514][803]LogSlate: Window 'PC_Hurt' being destroyed
+[2022.11.07-15.45.12:522][803]LogSlate: Window 'PC_Hurt' being destroyed
+[2022.11.07-15.45.12:524][803]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-15.45.12:524][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-15.46.03:682][318]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Idle.PC_Idle
+[2022.11.07-15.46.21:709][ 67]LogRenderer: Reallocating scene render targets to support 1528x788 Format 10 NumSamples 1 (Frame:295).
+[2022.11.07-15.51.43:026][510]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Idle3CDF4A9B4E51B44D77AB19831CCD956F.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Idle.uasset'
+[2022.11.07-15.51.43:035][510]AssetCheck: New page: Asset Save: PC_Idle
+[2022.11.07-15.51.43:035][510]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Idle.PC_Idle
+[2022.11.07-15.51.45:159][647]LogSlate: Window 'PC_Idle' being destroyed
+[2022.11.07-15.51.45:170][647]LogSlate: Window 'PC_Idle' being destroyed
+[2022.11.07-15.51.45:172][647]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-15.51.45:172][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-15.51.52:616][ 39]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_JumpDown.PC_JumpDown
+[2022.11.07-15.51.58:526][237]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_JumpDown090FCD7647FA876D50D670BD60448588.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_JumpDown.uasset'
+[2022.11.07-15.51.58:534][237]AssetCheck: New page: Asset Save: PC_JumpDown
+[2022.11.07-15.51.58:534][237]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_JumpDown.PC_JumpDown
+[2022.11.07-15.51.59:242][289]LogSlate: Window 'PC_JumpDown' being destroyed
+[2022.11.07-15.51.59:249][289]LogSlate: Window 'PC_JumpDown' being destroyed
+[2022.11.07-15.51.59:252][289]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-15.51.59:252][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-15.52.01:506][524]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_JumpUp.PC_JumpUp
+[2022.11.07-15.52.05:749][730]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_JumpUp21B4187941699EC60DD0BCA8F24E69C5.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_JumpUp.uasset'
+[2022.11.07-15.52.05:756][730]AssetCheck: New page: Asset Save: PC_JumpUp
+[2022.11.07-15.52.05:756][730]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_JumpUp.PC_JumpUp
+[2022.11.07-15.52.06:508][785]LogSlate: Window 'PC_JumpUp' being destroyed
+[2022.11.07-15.52.06:516][785]LogSlate: Window 'PC_JumpUp' being destroyed
+[2022.11.07-15.52.06:518][785]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-15.52.06:518][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-15.52.15:053][ 75]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Projectile.PC_Projectile
+[2022.11.07-15.52.40:801][835]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Projectile6E9D08A84F86D1E7E6BCCAAECACDF8B3.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Projectile.uasset'
+[2022.11.07-15.52.40:809][835]AssetCheck: New page: Asset Save: PC_Projectile
+[2022.11.07-15.52.40:809][835]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Projectile.PC_Projectile
+[2022.11.07-15.52.41:876][910]LogSlate: Window 'PC_Projectile' being destroyed
+[2022.11.07-15.52.41:884][910]LogSlate: Window 'PC_Projectile' being destroyed
+[2022.11.07-15.52.41:886][910]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-15.52.41:886][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-15.52.51:559][154]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Run.PC_Run
+[2022.11.07-15.54.47:043][652]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Run63A738224F6EEA2DAEAF20A4EB904C91.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Run.uasset'
+[2022.11.07-15.54.47:053][652]AssetCheck: New page: Asset Save: PC_Run
+[2022.11.07-15.54.47:053][652]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Run.PC_Run
+[2022.11.07-15.54.56:036][125]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Run1C42AA8342EC5DEEB590BF87F094E52C.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Run.uasset'
+[2022.11.07-15.54.56:045][125]AssetCheck: New page: Asset Save: PC_Run
+[2022.11.07-15.54.56:045][125]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Run.PC_Run
+[2022.11.07-15.54.56:928][187]LogSlate: Window 'PC_Run' being destroyed
+[2022.11.07-15.54.56:935][187]LogSlate: Window 'PC_Run' being destroyed
+[2022.11.07-15.54.56:937][187]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-15.54.56:937][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-15.55.04:840][676]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Shoot.PC_Shoot
+[2022.11.07-15.55.20:326][289]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Shoot1657DD454F8D9193B265C69C9BA43E4E.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Shoot.uasset'
+[2022.11.07-15.55.20:334][289]AssetCheck: New page: Asset Save: PC_Shoot
+[2022.11.07-15.55.20:334][289]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Shoot.PC_Shoot
+[2022.11.07-15.55.20:908][333]LogSlate: Window 'PC_Shoot' being destroyed
+[2022.11.07-15.55.20:913][333]LogSlate: Window 'PC_Shoot' being destroyed
+[2022.11.07-15.55.20:916][333]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-15.55.20:916][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-15.55.43:686][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.11.07-15.55.43:698][603]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap9412714041E9AC8A3F2D6E8E5CC2079E.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.07-15.55.43:817][603]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap_BuiltDa3B6013A249FB46BDF80C36A778304290.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.07-15.55.43:829][603]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-15.55.43:829][603]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.07-15.55.43:829][603]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.07-15.55.47:694][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.07-15.55.58:399][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-15.55.59:626][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.56.28:313][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-15.56.30:624][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-15.56.31:691][740]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.07-15.56.36:218][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:416][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:417][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:417][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:417][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:417][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:417][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:417][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:417][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:417][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:417][212]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.07-15.57.06:995][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_HurtF13D6A6E420407C03A66B787457D4DB2.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Hurt.uasset'
+[2022.11.07-15.57.06:997][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_IdleC3B8E0194499000607F9B6AC6B1F64B5.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Idle.uasset'
+[2022.11.07-15.57.06:999][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_JumpDown62AC1E034EDFF147D03047BF2DB5512E.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_JumpDown.uasset'
+[2022.11.07-15.57.07:001][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_JumpUpF7C67C1A45A1611EA2A875B5B2381C4E.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_JumpUp.uasset'
+[2022.11.07-15.57.07:005][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Projectile3B2E41E64D0440558EBD9C93A4202500.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Projectile.uasset'
+[2022.11.07-15.57.07:007][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Run316922C14051F2FC88D886B032C92826.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Run.uasset'
+[2022.11.07-15.57.07:010][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/PC_Shoot8F35790F4C07A300BEB4A99FDB75D576.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/PC_Shoot.uasset'
+[2022.11.07-15.57.07:013][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritF1FE634D43FF84AA0F4A52BDBD6204E0.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_0.uasset'
+[2022.11.07-15.57.07:016][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritA768EEAC467C42FEE42FB3837C2B79EC.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_1.uasset'
+[2022.11.07-15.57.07:019][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit82F54E794883868FE330D780CC83AA35.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_10.uasset'
+[2022.11.07-15.57.07:025][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritB6D38CDD43BB8F2E01F7E1B740F2FD83.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_11.uasset'
+[2022.11.07-15.57.07:030][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritA7470EB946BCFFDC6381A49BAA3A862C.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_12.uasset'
+[2022.11.07-15.57.07:033][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritCA92690443A40C66BC591D8B99D85EC0.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_13.uasset'
+[2022.11.07-15.57.07:041][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit08444CA34B1AD183DF26DF93A51DFC21.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_14.uasset'
+[2022.11.07-15.57.07:043][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit021E4C094C3FFE43E8C6E482B46D386D.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_15.uasset'
+[2022.11.07-15.57.07:046][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit2A7C3E664158C52A4DBCD08EAB845EFE.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_16.uasset'
+[2022.11.07-15.57.07:049][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit53CD22FC457163A12F6CECAE4F8A4E10.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_17.uasset'
+[2022.11.07-15.57.07:052][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit7F63CE434B61B5230264839FE1B85C2A.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_18.uasset'
+[2022.11.07-15.57.07:057][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit2C1895CF4B6A6AE9CCB8538726AB0A2D.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_19.uasset'
+[2022.11.07-15.57.07:060][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritA855C4904661CEFDDEA1C29965F2484A.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_2.uasset'
+[2022.11.07-15.57.07:063][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritB51A80DB4BB3811FA197AB9AAAD960CB.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_20.uasset'
+[2022.11.07-15.57.07:066][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit8D779407432B5E33C93C5887A9EB2818.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_21.uasset'
+[2022.11.07-15.57.07:069][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritE3ED82D740E1A4AEC67B7F9D8901E5E3.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_3.uasset'
+[2022.11.07-15.57.07:073][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit6C92FA8C4D12DEE9851C289DC49145C2.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_4.uasset'
+[2022.11.07-15.57.07:076][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit78FF1DCC4E486890C6411D9AAA881762.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_5.uasset'
+[2022.11.07-15.57.07:079][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit8193FBDA4C428392ECB37C9E61AB9BFC.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_6.uasset'
+[2022.11.07-15.57.07:082][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit1D6ED2FD449F680FCF1618AB07C08CD6.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_7.uasset'
+[2022.11.07-15.57.07:085][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit686A49A34E06AC2C36BA81AFA973542C.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_8.uasset'
+[2022.11.07-15.57.07:089][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit66EC75DB4A6879E2BF365DAAC60EA4BF.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_9.uasset'
+[2022.11.07-15.57.07:092][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_BuildingTileSet3C1273434CCF4929DD425A896110F232.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_BuildingTileSet.uasset'
+[2022.11.07-15.57.07:095][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete3F44C23F412D17D1FDC58DBECD66B246.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete.uasset'
+[2022.11.07-15.57.07:098][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_Sprit72017D1D434D8D7DE294DF87F4F0A15B.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_22.uasset'
+[2022.11.07-15.57.07:102][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritA8E30C8A4C699799F5DA0C870D9FF0DC.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_23.uasset'
+[2022.11.07-15.57.07:105][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_SpritB622EFDE44114AF324563F85F94150BF.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_24.uasset'
+[2022.11.07-15.57.07:109][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/4_Adkins_CharacterComplete_VolumF081EC564D341456DE448C88B9F5AB3B.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Volume.uasset'
+[2022.11.07-15.57.07:115][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-15.57.07:125][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap4D0FC4014DD843BABC9329A89E169080.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.07-15.57.07:133][212]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.023
+[2022.11.07-15.57.07:134][212]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap_BuiltDa414B116C434A63FC168334BAC75F3F77.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.07-15.57.25:934][212]LogSlate: Window 'Submit Files' being destroyed
+[2022.11.07-15.57.26:690][212]LogSourceControl: commit successful: [4AAdkins 43a5f76] Added PC Animations & Level Sprites
+[2022.11.07-15.57.27:019][212]SourceControl: [4AAdkins 43a5f76] Added PC Animations & Level Sprites
+[2022.11.07-15.57.27:019][212]SourceControl:  37 files changed, 0 insertions(+), 0 deletions(-)
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Animations/PC_Hurt.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Animations/PC_Idle.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Animations/PC_JumpDown.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Animations/PC_JumpUp.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Animations/PC_Projectile.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Animations/PC_Run.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Animations/PC_Shoot.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_0.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_1.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_10.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_11.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_12.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_13.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_14.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_15.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_16.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_17.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_18.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_19.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_2.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_20.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_21.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_3.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_4.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_5.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_6.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_7.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_8.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_9.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/4_Adkins_BuildingTileSet.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_22.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_23.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_24.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/4_Adkins_CharacterComplete_Volume.uasset
+[2022.11.07-15.57.27:019][212]SourceControl:  rewrite GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap (74%)
+[2022.11.07-15.57.27:019][212]SourceControl:  rewrite GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset (92%)
+[2022.11.07-15.57.27:026][212]SourceControl: Commited [4AAdkins 43a5f76] Added PC Animations & Level Sprites.
+[2022.11.07-15.57.27:069][213]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete.4_Adkins_CharacterComplete
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/4_Adkins_BuildingTileSet.4_Adkins_BuildingTileSet
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_24.4_Adkins_CharacterComplete_Sprite_24
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_23.4_Adkins_CharacterComplete_Sprite_23
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete_Sprite_22.4_Adkins_CharacterComplete_Sprite_22
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating VolumeTexture /Game/2DSideScroller/Textures/4_Adkins_CharacterComplete_Volume.4_Adkins_CharacterComplete_Volume
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_21.4_Adkins_CharacterComplete_Sprite_21
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_20.4_Adkins_CharacterComplete_Sprite_20
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_19.4_Adkins_CharacterComplete_Sprite_19
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_18.4_Adkins_CharacterComplete_Sprite_18
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_17.4_Adkins_CharacterComplete_Sprite_17
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_16.4_Adkins_CharacterComplete_Sprite_16
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_15.4_Adkins_CharacterComplete_Sprite_15
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_14.4_Adkins_CharacterComplete_Sprite_14
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_13.4_Adkins_CharacterComplete_Sprite_13
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_12.4_Adkins_CharacterComplete_Sprite_12
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_11.4_Adkins_CharacterComplete_Sprite_11
+[2022.11.07-15.57.27:069][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_10.4_Adkins_CharacterComplete_Sprite_10
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_9.4_Adkins_CharacterComplete_Sprite_9
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_8.4_Adkins_CharacterComplete_Sprite_8
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_7.4_Adkins_CharacterComplete_Sprite_7
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_6.4_Adkins_CharacterComplete_Sprite_6
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_5.4_Adkins_CharacterComplete_Sprite_5
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_4.4_Adkins_CharacterComplete_Sprite_4
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_3.4_Adkins_CharacterComplete_Sprite_3
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_2.4_Adkins_CharacterComplete_Sprite_2
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_1.4_Adkins_CharacterComplete_Sprite_1
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/4_Adkins_CharacterComplete_Sprite_0.4_Adkins_CharacterComplete_Sprite_0
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_JumpDown.PC_JumpDown
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Idle.PC_Idle
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_JumpUp.PC_JumpUp
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Run.PC_Run
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Shoot.PC_Shoot
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Projectile.PC_Projectile
+[2022.11.07-15.57.27:070][213]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Hurt.PC_Hurt
