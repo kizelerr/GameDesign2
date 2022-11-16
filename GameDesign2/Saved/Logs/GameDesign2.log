@@ -16967,3 +16967,1554 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.16-15.02.08:983][367]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 [2022.11.16-15.02.08:983][367]LogContentValidation: Display: Validating PaperTileSet /Game/2DSideScroller/Textures/Level1_4_Adkins_BuildingTileSet.Level1_4_Adkins_BuildingTileSet
 [2022.11.16-15.02.08:983][367]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Textures/Level1_Tilemap.Level1_TileMap
+[2022.11.16-15.03.58:171][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.03.58:176][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.03.58:177][ 82]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:03:58 AM)
+[2022.11.16-15.03.58:177][ 82]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.03.58:179][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002163s)
+[2022.11.16-15.03.58:180][ 82]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.03.58:180][ 82]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2022.11.16-15.03.58:180][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003312s)
+[2022.11.16-15.03.58:198][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.16-15.03.58:199][ 82]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2022.11.16-15.03.58:199][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.03.58:199][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.03.58:199][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.03.58:199][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.03.58:199][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.03.58:199][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.03.58:199][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.03.58:199][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.03.58:199][ 82]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.03.58:199][ 82]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.03.58:204][ 82]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.03.58:204][ 82]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.03.58:298][ 82]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.03.58:298][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.03.58:298][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.03.58:299][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.03.58:299][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.03.58:299][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.03.58:299][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.03.58:311][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.03.58:311][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.03.58:311][ 82]LogInit: FAudioDevice initialized.
+[2022.11.16-15.03.58:311][ 82]LogAudio: Display: Audio Device (ID: 77) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.03.58:317][ 82]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.03.58:318][ 82]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.03.58
+[2022.11.16-15.03.58:318][ 82]LogWorld: Bringing up level for play took: 0.000735
+[2022.11.16-15.03.58:318][ 82]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2022.11.16-15.03.58:320][ 82]PIE: Server logged in
+[2022.11.16-15.03.58:321][ 82]PIE: Play in editor total start time 0.145 seconds.
+[2022.11.16-15.04.00:864][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.04.00:864][384]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.04.00:864][384]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.04.00:864][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.04.00:877][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.04.00:890][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.04.00:904][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.04.00:905][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.04.00:905][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.04.00:922][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.16-15.04.00:948][385]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2022.11.16-15.04.01:795][461]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.04.01:800][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.04.01:800][461]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:04:01 AM)
+[2022.11.16-15.04.01:800][461]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.04.01:802][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001897s)
+[2022.11.16-15.04.01:803][461]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.04.01:803][461]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2022.11.16-15.04.01:803][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002941s)
+[2022.11.16-15.04.01:821][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.16-15.04.01:822][461]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2022.11.16-15.04.01:822][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.04.01:822][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.04.01:822][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.04.01:822][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.04.01:822][461]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.04.01:822][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.04.01:822][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.04.01:822][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.04.01:823][461]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.04.01:823][461]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.04.01:826][461]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.04.01:826][461]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.04.01:920][461]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.04.01:920][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.04.01:920][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.04.01:920][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.04.01:921][461]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.04.01:921][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.04.01:921][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.04.01:932][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.04.01:932][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.04.01:932][461]LogInit: FAudioDevice initialized.
+[2022.11.16-15.04.01:932][461]LogAudio: Display: Audio Device (ID: 78) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.04.01:938][461]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.04.01:940][461]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.04.01
+[2022.11.16-15.04.01:940][461]LogWorld: Bringing up level for play took: 0.000665
+[2022.11.16-15.04.01:941][461]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2022.11.16-15.04.01:942][461]PIE: Server logged in
+[2022.11.16-15.04.01:943][461]PIE: Play in editor total start time 0.144 seconds.
+[2022.11.16-15.04.07:004][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.04.07:004][ 64]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.04.07:004][ 64]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.04.07:004][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.04.07:016][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.04.07:028][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.04.07:043][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.04.07:043][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.04.07:044][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.04.07:061][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.16-15.04.07:087][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2022.11.16-15.04.07:725][111]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.04.07:730][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.04.07:730][111]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:04:07 AM)
+[2022.11.16-15.04.07:730][111]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.04.07:732][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002111s)
+[2022.11.16-15.04.07:733][111]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.04.07:733][111]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2022.11.16-15.04.07:733][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003158s)
+[2022.11.16-15.04.07:750][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.16-15.04.07:751][111]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2022.11.16-15.04.07:751][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.04.07:751][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.04.07:751][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.04.07:751][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.04.07:751][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.04.07:751][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.04.07:751][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.04.07:751][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.04.07:751][111]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.04.07:751][111]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.04.07:755][111]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.04.07:755][111]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.04.07:842][111]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.04.07:843][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.04.07:843][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.04.07:843][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.04.07:843][111]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.04.07:843][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.04.07:843][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.04.07:854][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.04.07:854][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.04.07:854][111]LogInit: FAudioDevice initialized.
+[2022.11.16-15.04.07:854][111]LogAudio: Display: Audio Device (ID: 79) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.04.07:863][111]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.04.07:865][111]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.04.07
+[2022.11.16-15.04.07:865][111]LogWorld: Bringing up level for play took: 0.000673
+[2022.11.16-15.04.07:865][111]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2022.11.16-15.04.07:866][111]PIE: Server logged in
+[2022.11.16-15.04.07:867][111]PIE: Play in editor total start time 0.139 seconds.
+[2022.11.16-15.04.17:184][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.04.17:184][224]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.04.17:184][224]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.04.17:184][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.04.17:194][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.04.17:206][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.04.17:221][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.04.17:221][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.04.17:222][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.04.17:239][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.16-15.04.17:265][225]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2022.11.16-15.04.26:428][952]LogActorFactory: Actor Factory created Cube
+[2022.11.16-15.04.28:755][186]LogActorFactory: Actor Factory created Cube
+[2022.11.16-15.04.33:716][720]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.04.33:721][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.04.33:721][720]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:04:33 AM)
+[2022.11.16-15.04.33:721][720]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.04.33:724][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002124s)
+[2022.11.16-15.04.33:724][720]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.04.33:724][720]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2022.11.16-15.04.33:725][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003151s)
+[2022.11.16-15.04.33:742][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.11.16-15.04.33:743][720]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2022.11.16-15.04.33:743][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.04.33:743][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.04.33:743][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.04.33:743][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.04.33:743][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.04.33:743][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.04.33:744][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.04.33:744][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.04.33:744][720]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.04.33:744][720]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.04.33:748][720]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.04.33:748][720]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.04.33:839][720]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.04.33:839][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.04.33:839][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.04.33:839][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.04.33:839][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.04.33:839][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.04.33:839][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.04.33:850][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.04.33:850][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.04.33:850][720]LogInit: FAudioDevice initialized.
+[2022.11.16-15.04.33:850][720]LogAudio: Display: Audio Device (ID: 80) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.04.33:858][720]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.04.33:860][720]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.04.33
+[2022.11.16-15.04.33:860][720]LogWorld: Bringing up level for play took: 0.000713
+[2022.11.16-15.04.33:860][720]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2022.11.16-15.04.33:862][720]PIE: Server logged in
+[2022.11.16-15.04.33:863][720]PIE: Play in editor total start time 0.142 seconds.
+[2022.11.16-15.04.38:964][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.04.38:964][327]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.04.38:964][327]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.04.38:964][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.04.38:974][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.04.38:989][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.04.39:004][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-15.04.39:004][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.04.39:005][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.04.39:020][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.04.39:022][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.16-15.04.39:049][328]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2022.11.16-15.04.40:720][520]Cmd: DELETE
+[2022.11.16-15.04.40:720][520]Cmd: ACTOR DELETE
+[2022.11.16-15.04.40:721][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.16-15.04.40:738][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.16-15.04.40:740][520]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.11.16-15.04.45:638][ 61]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.16-15.04.46:520][137]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.16-15.04.47:993][289]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.16-15.04.48:713][364]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.16-15.05.09:182][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.05.09:187][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.05.09:187][ 57]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:05:09 AM)
+[2022.11.16-15.05.09:213][ 57]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.05.09:215][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001958s)
+[2022.11.16-15.05.09:216][ 57]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.05.09:216][ 57]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2022.11.16-15.05.09:216][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002928s)
+[2022.11.16-15.05.09:233][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.16-15.05.09:234][ 57]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2022.11.16-15.05.09:234][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.05.09:234][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.05.09:234][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.05.09:235][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.05.09:235][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.05.09:235][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.05.09:235][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.05.09:235][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.05.09:235][ 57]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.05.09:235][ 57]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.05.09:239][ 57]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.05.09:239][ 57]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.05.09:319][ 57]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.05.09:320][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.05.09:320][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.05.09:320][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.05.09:320][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.05.09:320][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.05.09:320][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.05.09:331][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.05.09:331][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.05.09:331][ 57]LogInit: FAudioDevice initialized.
+[2022.11.16-15.05.09:331][ 57]LogAudio: Display: Audio Device (ID: 81) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.05.09:337][ 57]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.05.09:338][ 57]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.05.09
+[2022.11.16-15.05.09:338][ 57]LogWorld: Bringing up level for play took: 0.000702
+[2022.11.16-15.05.09:339][ 57]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2022.11.16-15.05.09:340][ 57]PIE: Server logged in
+[2022.11.16-15.05.09:341][ 57]PIE: Play in editor total start time 0.155 seconds.
+[2022.11.16-15.05.16:983][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.05.16:983][970]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.05.16:983][970]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.05.16:984][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.05.16:993][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.05.17:006][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.05.17:021][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.05.17:021][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.05.17:022][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.05.17:039][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.16-15.05.17:066][971]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2022.11.16-15.05.18:288][ 92]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.16-15.05.18:712][135]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2022.11.16-15.05.20:447][337]Cmd: DELETE
+[2022.11.16-15.05.20:447][337]Cmd: ACTOR DELETE
+[2022.11.16-15.05.20:448][337]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.11.16-15.05.20:464][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.16-15.05.20:465][337]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.11.16-15.05.23:215][665]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (GlobalPostProcessSettings)
+[2022.11.16-15.05.23:623][702]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (GlobalPostProcessSettings)
+[2022.11.16-15.05.33:237][823]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.16-15.05.47:157][356]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.05.47:162][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.05.47:163][356]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:05:47 AM)
+[2022.11.16-15.05.47:163][356]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.05.47:165][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001899s)
+[2022.11.16-15.05.47:165][356]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.05.47:166][356]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2022.11.16-15.05.47:166][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002933s)
+[2022.11.16-15.05.47:183][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.16-15.05.47:185][356]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2022.11.16-15.05.47:185][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.05.47:185][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.05.47:185][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.05.47:185][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.05.47:185][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.05.47:185][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.05.47:185][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.05.47:185][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.05.47:185][356]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.05.47:185][356]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.05.47:188][356]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.05.47:188][356]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.05.47:281][356]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.05.47:282][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.05.47:282][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.05.47:282][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.05.47:282][356]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.05.47:282][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.05.47:282][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.05.47:293][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.05.47:293][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.05.47:293][356]LogInit: FAudioDevice initialized.
+[2022.11.16-15.05.47:293][356]LogAudio: Display: Audio Device (ID: 82) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.05.47:301][356]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.05.47:302][356]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.05.47
+[2022.11.16-15.05.47:302][356]LogWorld: Bringing up level for play took: 0.000645
+[2022.11.16-15.05.47:303][356]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2022.11.16-15.05.47:304][356]PIE: Server logged in
+[2022.11.16-15.05.47:305][356]PIE: Play in editor total start time 0.144 seconds.
+[2022.11.16-15.06.00:034][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.06.00:034][880]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.06.00:034][880]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.06.00:034][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.06.00:047][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.06.00:060][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.06.00:074][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.06.00:074][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.06.00:075][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.06.00:092][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.16-15.06.00:119][881]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2022.11.16-15.06.01:902][ 72]Cmd: TRANSACTION UNDO
+[2022.11.16-15.06.01:902][ 72]LogEditorTransaction: Undo Move Actors
+[2022.11.16-15.06.03:949][203]Cmd: TRANSACTION UNDO
+[2022.11.16-15.06.03:949][203]LogEditorTransaction: Undo Move Actors
+[2022.11.16-15.06.04:449][241]Cmd: TRANSACTION UNDO
+[2022.11.16-15.06.04:449][241]LogEditorTransaction: Undo Move Actors
+[2022.11.16-15.06.05:998][357]Cmd: TRANSACTION UNDO
+[2022.11.16-15.06.05:998][357]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.16-15.06.07:656][484]LogEditorViewport: Clicking Background
+[2022.11.16-15.09.11:946][290]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.09.11:952][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.09.11:952][290]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:09:11 AM)
+[2022.11.16-15.09.11:952][290]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.09.11:954][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002051s)
+[2022.11.16-15.09.11:955][290]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.09.11:955][290]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2022.11.16-15.09.11:955][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003110s)
+[2022.11.16-15.09.11:975][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.16-15.09.11:977][290]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2022.11.16-15.09.11:977][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.09.11:977][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.09.11:977][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.09.11:977][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.09.11:977][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.09.11:977][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.09.11:977][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.09.11:977][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.09.11:977][290]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.09.11:977][290]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.09.11:981][290]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.09.11:981][290]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.09.12:073][290]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.09.12:074][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.09.12:074][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.09.12:074][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.09.12:074][290]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.09.12:074][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.09.12:074][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.09.12:084][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.09.12:084][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.09.12:084][290]LogInit: FAudioDevice initialized.
+[2022.11.16-15.09.12:085][290]LogAudio: Display: Audio Device (ID: 83) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.09.12:092][290]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.09.12:093][290]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.09.12
+[2022.11.16-15.09.12:094][290]LogWorld: Bringing up level for play took: 0.000718
+[2022.11.16-15.09.12:094][290]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2022.11.16-15.09.12:096][290]PIE: Server logged in
+[2022.11.16-15.09.12:096][290]PIE: Play in editor total start time 0.145 seconds.
+[2022.11.16-15.09.15:144][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.09.15:144][645]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.09.15:144][645]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.09.15:144][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.09.15:158][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.09.15:169][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.09.15:184][645]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-15.09.15:184][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.09.15:185][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.09.15:200][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.09.15:202][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.16-15.09.15:228][646]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2022.11.16-15.09.20:059][131]Cmd: DELETE
+[2022.11.16-15.09.20:059][131]Cmd: ACTOR DELETE
+[2022.11.16-15.09.20:060][131]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.11.16-15.09.20:078][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.16-15.09.20:080][131]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.11.16-15.10.18:850][649]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle
+[2022.11.16-15.10.18:853][649]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.10.19:218][649]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.10.19:232][649]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.11.16-15.10.19:233][649]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2022.11.16-15.10.19:236][649]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionParticleSubUV_0, compiling. 
+[2022.11.16-15.10.20:642][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2022.11.16-15.10.20:843][819]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2022.11.16-15.10.20:926][828]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.11.16-15.10.21:270][869]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2022.11.16-15.10.21:354][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2022.11.16-15.10.21:517][893]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2022.11.16-15.10.21:660][906]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2022.11.16-15.10.21:946][931]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2022.11.16-15.10.22:044][940]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2022.11.16-15.10.22:201][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2022.11.16-15.10.22:394][968]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.10.22:394][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.10.22:457][973]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2022.11.16-15.10.22:606][991]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2022.11.16-15.10.22:614][992]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.11.16-15.10.23:255][ 58]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2022.11.16-15.10.23:255][ 58]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2022.11.16-15.10.23:660][ 98]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.11.16-15.10.23:708][100]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.11.16-15.10.24:049][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.11.16-15.10.24:150][152]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.11.16-15.10.24:491][179]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.16-15.10.52:717][530]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.16-15.10.53:449][587]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.10.53:455][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.10.53:455][587]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:10:53 AM)
+[2022.11.16-15.10.53:455][587]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.10.53:457][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001950s)
+[2022.11.16-15.10.53:458][587]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.10.53:458][587]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2022.11.16-15.10.53:458][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003019s)
+[2022.11.16-15.10.53:478][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.16-15.10.53:481][587]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2022.11.16-15.10.53:481][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.10.53:482][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.10.53:482][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.10.53:482][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.10.53:482][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.10.53:482][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.10.53:482][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.10.53:482][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.10.53:482][587]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.10.53:482][587]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.10.53:486][587]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.10.53:486][587]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.10.53:591][587]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.10.53:591][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.10.53:591][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.10.53:591][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.10.53:592][587]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.10.53:592][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.10.53:592][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.10.53:603][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.10.53:603][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.10.53:603][587]LogInit: FAudioDevice initialized.
+[2022.11.16-15.10.53:603][587]LogAudio: Display: Audio Device (ID: 84) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.10.53:609][587]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.10.53:610][587]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.10.53
+[2022.11.16-15.10.53:611][587]LogWorld: Bringing up level for play took: 0.000694
+[2022.11.16-15.10.53:611][587]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2022.11.16-15.10.53:613][587]PIE: Server logged in
+[2022.11.16-15.10.53:613][587]PIE: Play in editor total start time 0.159 seconds.
+[2022.11.16-15.10.57:464][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.10.57:464][ 41]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.10.57:465][ 41]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.10.57:465][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.10.57:472][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.10.57:485][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.10.57:500][ 41]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-15.10.57:500][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.10.57:501][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.10.57:515][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.10.57:517][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.16-15.10.57:546][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2022.11.16-15.10.59:147][193]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2022.11.16-15.11.19:785][251]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.11.19:790][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.11.19:790][251]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:11:19 AM)
+[2022.11.16-15.11.19:813][251]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.11.19:815][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001960s)
+[2022.11.16-15.11.19:815][251]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.11.19:816][251]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2022.11.16-15.11.19:816][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002955s)
+[2022.11.16-15.11.19:832][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.16-15.11.19:834][251]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2022.11.16-15.11.19:834][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.11.19:834][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.11.19:834][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.11.19:834][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.11.19:834][251]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.11.19:834][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.11.19:834][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.11.19:834][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.11.19:834][251]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.11.19:834][251]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.11.19:838][251]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.11.19:838][251]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.11.19:920][251]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.11.19:920][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.11.19:920][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.11.19:920][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.11.19:921][251]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.11.19:921][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.11.19:921][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.11.19:932][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.11.19:932][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.11.19:932][251]LogInit: FAudioDevice initialized.
+[2022.11.16-15.11.19:932][251]LogAudio: Display: Audio Device (ID: 85) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.11.19:936][251]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.11.19:937][251]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.11.19
+[2022.11.16-15.11.19:937][251]LogWorld: Bringing up level for play took: 0.000681
+[2022.11.16-15.11.19:937][251]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2022.11.16-15.11.19:939][251]PIE: Server logged in
+[2022.11.16-15.11.19:940][251]PIE: Play in editor total start time 0.15 seconds.
+[2022.11.16-15.11.28:695][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.11.28:695][296]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.11.28:695][296]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.11.28:695][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.11.28:707][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.11.28:716][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.11.28:731][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.11.28:731][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.11.28:732][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.11.28:749][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.16-15.11.28:785][297]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2022.11.16-15.11.30:190][451]Cmd: DELETE
+[2022.11.16-15.11.30:190][451]Cmd: ACTOR DELETE
+[2022.11.16-15.11.30:191][451]LogEditorActor: Deleted Actor: Emitter
+[2022.11.16-15.11.30:208][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.16-15.11.30:209][451]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.11.16-15.11.38:436][120]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.11.38:442][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.11.38:442][120]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:11:38 AM)
+[2022.11.16-15.11.38:442][120]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.11.38:443][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002357s)
+[2022.11.16-15.11.38:444][120]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.11.38:444][120]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2022.11.16-15.11.38:444][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003437s)
+[2022.11.16-15.11.38:463][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.11.16-15.11.38:464][120]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2022.11.16-15.11.38:464][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.11.38:464][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.11.38:464][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.11.38:464][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.11.38:464][120]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.11.38:464][120]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.11.38:464][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.11.38:464][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.11.38:465][120]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.11.38:465][120]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.11.38:468][120]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.11.38:468][120]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.11.38:553][120]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.11.38:554][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.11.38:554][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.11.38:554][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.11.38:554][120]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.11.38:554][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.11.38:554][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.11.38:566][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.11.38:566][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.11.38:566][120]LogInit: FAudioDevice initialized.
+[2022.11.16-15.11.38:566][120]LogAudio: Display: Audio Device (ID: 86) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.11.38:575][120]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.11.38:576][120]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.11.38
+[2022.11.16-15.11.38:576][120]LogWorld: Bringing up level for play took: 0.000724
+[2022.11.16-15.11.38:576][120]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2022.11.16-15.11.38:578][120]PIE: Server logged in
+[2022.11.16-15.11.38:579][120]PIE: Play in editor total start time 0.139 seconds.
+[2022.11.16-15.11.40:085][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.11.40:085][293]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.11.40:085][293]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.11.40:085][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.11.40:098][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.11.40:107][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.11.40:122][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-15.11.40:122][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.11.40:123][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.11.40:137][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.11.40:140][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.16-15.11.40:170][294]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2022.11.16-15.12.02:100][842]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.16-15.12.04:047][ 38]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Ambient_Dust)
+[2022.11.16-15.12.19:947][ 48]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle
+[2022.11.16-15.12.19:948][ 48]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.20:008][ 48]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.20:019][ 48]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.20:033][ 48]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.11.16-15.12.20:033][ 48]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2022.11.16-15.12.20:037][ 48]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionParticleSubUV_0, compiling. 
+[2022.11.16-15.12.21:213][167]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2022.11.16-15.12.21:403][186]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2022.11.16-15.12.21:494][197]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.11.16-15.12.21:820][236]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2022.11.16-15.12.21:895][245]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2022.11.16-15.12.22:078][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2022.11.16-15.12.22:229][285]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2022.11.16-15.12.22:521][320]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2022.11.16-15.12.22:623][332]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2022.11.16-15.12.22:778][349]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2022.11.16-15.12.23:061][383]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2022.11.16-15.12.23:228][403]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2022.11.16-15.12.23:228][403]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.11.16-15.12.23:902][484]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2022.11.16-15.12.23:911][485]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2022.11.16-15.12.24:352][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2022.11.16-15.12.24:411][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.11.16-15.12.24:752][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2022.11.16-15.12.24:863][599]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2022.11.16-15.12.25:229][643]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.11.16-15.12.25:278][649]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.11.16-15.12.25:586][686]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.11.16-15.12.25:895][722]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.11.16-15.12.25:895][722]MaterialEditorStats: Base pass shader: 74 instructions
+[2022.11.16-15.12.25:895][722]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 95 instructions
+[2022.11.16-15.12.25:895][722]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.11.16-15.12.25:895][722]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.16-15.12.25:895][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.16-15.12.25:950][729]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.16-15.12.38:703][920]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.38:723][921]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.11.16-15.12.38:723][921]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2022.11.16-15.12.39:153][957]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2022.11.16-15.12.39:351][979]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2022.11.16-15.12.39:418][987]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2022.11.16-15.12.39:746][ 18]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2022.11.16-15.12.39:796][ 22]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2022.11.16-15.12.39:955][ 36]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2022.11.16-15.12.40:104][ 47]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.40:126][ 48]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2022.11.16-15.12.40:368][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2022.11.16-15.12.40:535][ 81]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2022.11.16-15.12.40:783][101]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2022.11.16-15.12.40:961][116]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2022.11.16-15.12.41:164][133]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2022.11.16-15.12.41:333][147]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2022.11.16-15.12.41:484][160]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2022.11.16-15.12.41:537][165]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2022.11.16-15.12.41:760][182]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.41:768][182]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.41:775][182]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.41:919][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2022.11.16-15.12.41:919][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.11.16-15.12.42:192][220]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.42:317][231]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.11.16-15.12.42:386][237]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2022.11.16-15.12.42:773][269]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2022.11.16-15.12.42:773][269]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2022.11.16-15.12.42:952][283]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.42:966][283]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.42:978][283]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.43:059][291]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.11.16-15.12.43:198][306]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2022.11.16-15.12.43:482][330]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2022.11.16-15.12.43:736][351]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2022.11.16-15.12.43:827][362]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2022.11.16-15.12.44:135][399]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2022.11.16-15.12.44:227][410]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2022.11.16-15.12.44:395][430]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2022.11.16-15.12.44:543][448]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2022.11.16-15.12.44:836][483]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2022.11.16-15.12.44:936][495]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.11.16-15.12.45:100][514]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2022.11.16-15.12.45:375][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2022.11.16-15.12.45:516][564]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.11.16-15.12.45:534][566]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2022.11.16-15.12.46:184][644]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.11.16-15.12.46:202][646]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2022.11.16-15.12.46:634][698]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.11.16-15.12.46:684][704]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.11.16-15.12.47:034][744]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.11.16-15.12.47:150][758]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.11.16-15.12.47:501][800]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.11.16-15.12.48:082][861]MaterialEditorStats: Base pass shader: 74 instructions
+[2022.11.16-15.12.48:082][861]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 95 instructions
+[2022.11.16-15.12.48:082][861]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.11.16-15.12.48:082][861]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.16-15.12.48:082][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.16-15.12.48:777][922]Cmd: TRANSACTION UNDO
+[2022.11.16-15.12.48:777][922]LogEditorTransaction: Undo Edit Blend Mode
+[2022.11.16-15.12.48:789][922]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.48:795][922]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.48:840][923]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2022.11.16-15.12.48:840][923]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.11.16-15.12.49:155][933]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.11.16-15.12.49:206][935]Cmd: TRANSACTION UNDO
+[2022.11.16-15.12.49:206][935]LogEditorTransaction: Undo Edit Blend Mode
+[2022.11.16-15.12.49:209][935]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.49:220][935]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.11.16-15.12.49:222][935]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.49:409][945]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2022.11.16-15.12.49:609][960]Cmd: TRANSACTION UNDO
+[2022.11.16-15.12.49:609][960]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.16-15.12.49:625][960]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2022.11.16-15.12.49:627][960]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.49:795][971]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2022.11.16-15.12.49:994][987]Cmd: TRANSACTION UNDO
+[2022.11.16-15.12.49:994][987]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.16-15.12.50:008][987]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.50:198][  2]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2022.11.16-15.12.50:221][  4]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2022.11.16-15.12.50:430][ 20]Cmd: TRANSACTION UNDO
+[2022.11.16-15.12.50:430][ 20]LogEditorTransaction: Undo Create Actors
+[2022.11.16-15.12.50:444][ 20]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.50:611][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2022.11.16-15.12.50:834][ 52]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2022.11.16-15.12.50:834][ 52]Cmd: TRANSACTION UNDO
+[2022.11.16-15.12.50:834][ 52]LogEditorTransaction: Undo Delete Actors
+[2022.11.16-15.12.50:857][ 52]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.50:998][ 63]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2022.11.16-15.12.51:345][ 92]Cmd: TRANSACTION UNDO
+[2022.11.16-15.12.51:345][ 92]LogEditorTransaction: Undo Rotate Actors
+[2022.11.16-15.12.51:359][ 92]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.51:400][ 94]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2022.11.16-15.12.51:434][ 97]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2022.11.16-15.12.51:809][129]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2022.11.16-15.12.51:948][141]Cmd: TRANSACTION UNDO
+[2022.11.16-15.12.51:948][141]LogEditorTransaction: Undo Rotate Actors
+[2022.11.16-15.12.51:962][141]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.52:058][149]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2022.11.16-15.12.52:058][149]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2022.11.16-15.12.52:461][183]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2022.11.16-15.12.52:506][187]Cmd: TRANSACTION UNDO
+[2022.11.16-15.12.52:506][187]LogEditorTransaction: Undo Move Actors
+[2022.11.16-15.12.52:519][187]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2022.11.16-15.12.52:667][199]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.11.16-15.12.52:703][202]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2022.11.16-15.12.53:076][234]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2022.11.16-15.12.53:325][255]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2022.11.16-15.12.53:325][255]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2022.11.16-15.12.53:717][287]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2022.11.16-15.12.53:717][287]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2022.11.16-15.12.53:875][300]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2022.11.16-15.12.54:085][311]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2022.11.16-15.12.54:291][324]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2022.11.16-15.12.54:456][336]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.11.16-15.12.54:531][342]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2022.11.16-15.12.54:855][366]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2022.11.16-15.12.54:934][372]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.11.16-15.12.55:013][378]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2022.11.16-15.12.55:543][416]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.11.16-15.12.55:629][426]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2022.11.16-15.12.56:017][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.11.16-15.12.56:051][473]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.11.16-15.12.56:415][513]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.11.16-15.12.56:504][523]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.11.16-15.12.56:864][563]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.11.16-15.12.57:467][629]MaterialEditorStats: Base pass shader: 74 instructions
+[2022.11.16-15.12.57:467][629]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 95 instructions
+[2022.11.16-15.12.57:467][629]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.11.16-15.12.57:467][629]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.16-15.12.57:467][629]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.11.16-15.13.02:170][108]Cmd: DELETE
+[2022.11.16-15.13.02:170][108]Cmd: ACTOR DELETE
+[2022.11.16-15.13.02:171][108]LogEditorActor: Deleted Actor: Emitter
+[2022.11.16-15.13.02:190][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.16-15.13.02:191][108]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.11.16-15.13.09:275][274]LogSlate: Window 'Message' being destroyed
+[2022.11.16-15.13.09:278][274]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle
+(Selecting 'No' will cause all changes to be lost!)
+[2022.11.16-15.13.09:292][274]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.13.09:292][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.13.12:142][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.16-15.13.12:151][521]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap825F450F4295110AB562B789948D19E0.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.16-15.13.12:255][521]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap_BuiltDa3C4B60C24E2A1022BB7D86A22136A862.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.16-15.13.12:265][521]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.16-15.13.12:265][521]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.16-15.13.12:265][521]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.16-15.13.12:827][582]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.16-15.13.13:598][661]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Level1_TileMap)
+[2022.11.16-15.13.14:460][743]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.16-15.14.08:940][138]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.14.08:945][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.14.08:946][138]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:14:08 AM)
+[2022.11.16-15.14.08:946][138]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.14.08:948][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002192s)
+[2022.11.16-15.14.08:949][138]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.14.08:949][138]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2022.11.16-15.14.08:949][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003214s)
+[2022.11.16-15.14.08:968][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.16-15.14.08:970][138]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2022.11.16-15.14.08:970][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.14.08:970][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.14.08:970][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.14.08:970][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.14.08:971][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.14.08:971][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.14.08:971][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.14.08:971][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.14.08:971][138]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.14.08:971][138]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.14.08:975][138]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.14.08:975][138]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.14.09:068][138]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.14.09:068][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.14.09:068][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.14.09:068][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.14.09:069][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.14.09:069][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.14.09:069][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.14.09:080][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.14.09:080][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.14.09:080][138]LogInit: FAudioDevice initialized.
+[2022.11.16-15.14.09:080][138]LogAudio: Display: Audio Device (ID: 87) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.14.09:088][138]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.14.09:090][138]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.14.09
+[2022.11.16-15.14.09:090][138]LogWorld: Bringing up level for play took: 0.000680
+[2022.11.16-15.14.09:090][138]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2022.11.16-15.14.09:092][138]PIE: Server logged in
+[2022.11.16-15.14.09:092][138]PIE: Play in editor total start time 0.148 seconds.
+[2022.11.16-15.14.19:634][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.14.19:634][391]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.14.19:635][391]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.14.19:635][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.14.19:644][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.14.19:653][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.14.19:668][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-15.14.19:668][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.14.19:669][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.14.19:683][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.14.19:686][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.16-15.14.19:716][392]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2022.11.16-15.14.28:675][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.14.28:680][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.14.28:680][ 57]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:14:28 AM)
+[2022.11.16-15.14.28:680][ 57]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.14.28:683][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002374s)
+[2022.11.16-15.14.28:684][ 57]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.14.28:684][ 57]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2022.11.16-15.14.28:684][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003603s)
+[2022.11.16-15.14.28:702][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.11.16-15.14.28:704][ 57]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2022.11.16-15.14.28:704][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.14.28:704][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.14.28:704][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.14.28:704][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.14.28:704][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.14.28:704][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.14.28:704][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.14.28:704][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.14.28:704][ 57]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.14.28:704][ 57]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.14.28:708][ 57]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.14.28:708][ 57]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.14.28:789][ 57]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.14.28:790][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.14.28:790][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.14.28:790][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.14.28:790][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.14.28:790][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.14.28:790][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.14.28:801][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.14.28:801][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.14.28:801][ 57]LogInit: FAudioDevice initialized.
+[2022.11.16-15.14.28:801][ 57]LogAudio: Display: Audio Device (ID: 88) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.14.28:808][ 57]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.14.28:809][ 57]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.14.28
+[2022.11.16-15.14.28:809][ 57]LogWorld: Bringing up level for play took: 0.000678
+[2022.11.16-15.14.28:810][ 57]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2022.11.16-15.14.28:811][ 57]PIE: Server logged in
+[2022.11.16-15.14.28:812][ 57]PIE: Play in editor total start time 0.133 seconds.
+[2022.11.16-15.14.32:365][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.14.32:365][478]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.14.32:365][478]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.14.32:365][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.14.32:374][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.14.32:383][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.14.32:398][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.14.32:398][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.14.32:399][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.14.32:416][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.16-15.14.32:448][479]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2022.11.16-15.14.38:794][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.11.16-15.14.38:803][885]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMapBA33B14440ABD5A756C44CBC763FEC26.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.16-15.14.38:908][885]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap_BuiltDa6EC80918403D276BF6716298AC92764D.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.16-15.14.38:920][885]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.16-15.14.38:920][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.16-15.14.38:920][885]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.16-15.14.40:396][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.14.40:401][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.14.40:401][ 35]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:14:40 AM)
+[2022.11.16-15.14.40:433][ 35]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.14.40:435][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001929s)
+[2022.11.16-15.14.40:435][ 35]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.14.40:436][ 35]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2022.11.16-15.14.40:436][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002920s)
+[2022.11.16-15.14.40:452][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.16-15.14.40:453][ 35]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2022.11.16-15.14.40:453][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.14.40:453][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.14.40:453][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.14.40:453][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.14.40:453][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.14.40:453][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.14.40:453][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.14.40:453][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.14.40:454][ 35]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.14.40:454][ 35]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.14.40:457][ 35]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.14.40:458][ 35]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.14.40:552][ 35]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.14.40:553][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.14.40:553][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.14.40:553][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.14.40:553][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.14.40:553][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.14.40:553][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.14.40:565][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.14.40:565][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.14.40:565][ 35]LogInit: FAudioDevice initialized.
+[2022.11.16-15.14.40:565][ 35]LogAudio: Display: Audio Device (ID: 89) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.14.40:569][ 35]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.14.40:571][ 35]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.14.40
+[2022.11.16-15.14.40:571][ 35]LogWorld: Bringing up level for play took: 0.000690
+[2022.11.16-15.14.40:571][ 35]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2022.11.16-15.14.40:573][ 35]PIE: Server logged in
+[2022.11.16-15.14.40:574][ 35]PIE: Play in editor total start time 0.173 seconds.
+[2022.11.16-15.14.45:244][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.14.45:245][589]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.14.45:245][589]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.14.45:245][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.14.45:258][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.14.45:267][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.14.45:282][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.14.45:282][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.14.45:283][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.14.45:300][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.16-15.14.45:333][590]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2022.11.16-15.14.45:926][640]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.16-15.14.45:931][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-15.14.45:931][640]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 16, 2022, 5:14:45 AM)
+[2022.11.16-15.14.45:953][640]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.14.45:955][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001880s)
+[2022.11.16-15.14.45:956][640]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.16-15.14.45:956][640]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2022.11.16-15.14.45:956][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002851s)
+[2022.11.16-15.14.45:973][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.16-15.14.45:973][640]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2022.11.16-15.14.45:973][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-15.14.45:973][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-15.14.45:973][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-15.14.45:973][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-15.14.45:973][640]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-15.14.45:973][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.16-15.14.45:973][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-15.14.45:973][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-15.14.45:974][640]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.16-15.14.45:974][640]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.16-15.14.45:977][640]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.16-15.14.45:977][640]LogAudioMixer: Display: 1: FrontRight
+[2022.11.16-15.14.46:059][640]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.16-15.14.46:059][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-15.14.46:059][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-15.14.46:059][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-15.14.46:060][640]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.16-15.14.46:060][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.16-15.14.46:060][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.16-15.14.46:071][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.16-15.14.46:071][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.16-15.14.46:071][640]LogInit: FAudioDevice initialized.
+[2022.11.16-15.14.46:071][640]LogAudio: Display: Audio Device (ID: 90) registered with world '2DSideScrollerExampleMap'.
+[2022.11.16-15.14.46:080][640]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.16-15.14.46:081][640]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.16-10.14.46
+[2022.11.16-15.14.46:081][640]LogWorld: Bringing up level for play took: 0.000688
+[2022.11.16-15.14.46:081][640]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2022.11.16-15.14.46:083][640]PIE: Server logged in
+[2022.11.16-15.14.46:084][640]PIE: Play in editor total start time 0.153 seconds.
+[2022.11.16-15.14.51:684][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.14.51:684][305]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.16-15.14.51:684][305]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.14.51:684][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.14.51:693][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-15.14.51:702][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.14.51:717][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-15.14.51:717][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.14.51:718][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.14.51:735][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.16-15.14.51:766][306]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2022.11.16-15.14.53:560][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.16-15.14.57:687][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:688][765]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2'
+[2022.11.16-15.14.57:984][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.16-15.14.57:992][765]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMapCDA5908B48E75D310564ECBA6121644B.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.16-15.14.58:002][765]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.034
+[2022.11.16-15.14.58:003][765]LogSavePackage: Moving '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap_BuiltDaFCE9AB6149F7B2C261437892A6ACDC80.tmp' to '../../../../../Users/5926008386/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.16-15.15.03:175][765]LogSlate: Window 'Submit Files' being destroyed
+[2022.11.16-15.15.03:460][765]LogSourceControl: commit successful: [4AAdkins f1f54f9] Added Sand Particles
+[2022.11.16-15.15.03:526][765]SourceControl: [4AAdkins f1f54f9] Added Sand Particles
+[2022.11.16-15.15.03:526][765]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2022.11.16-15.15.03:526][765]SourceControl:  rewrite GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap (81%)
+[2022.11.16-15.15.03:531][765]SourceControl: Commited [4AAdkins f1f54f9] Added Sand Particles.
+[2022.11.16-15.15.03:573][766]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.16-15.15.03:574][766]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.16-15.15.03:574][766]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.16-15.15.05:897][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.16-15.15.05:907][912]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.15.05:907][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.15.05:938][912]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.15.05:938][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.15.05:964][912]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.15.05:964][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-15.15.06:025][912]LogSlate: Window 'GameDesign2 - Unreal Editor' being destroyed
+[2022.11.16-15.15.06:124][913]Cmd: QUIT_EDITOR
+[2022.11.16-15.15.06:124][913]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.16-15.15.06:128][913]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.16-15.15.06:660][913]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.16-15.15.06:660][913]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.16-15.15.06:660][913]LogAudio: Display: Audio Device unregistered from world '2DSideScrollerExampleMap'.
+[2022.11.16-15.15.06:660][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.15.06:661][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.16-15.15.06:687][913]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.16-15.15.06:688][913]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.16-15.15.06:692][913]LogExit: Preparing to exit.
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3F36B00] Windows
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3F36A00] Default__DeviceProfile
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF9600] WindowsNoEditor
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3F35500] WindowsServer
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFA700] WindowsClient
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3F36D00] IOS
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFBA00] iPadAir
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3F35100] iPadAir2
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5138100] IPadPro
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5138200] iPadAir3
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3F36700] iPadAir4
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C513A600] iPadMini2
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3F35200] iPadMini3
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5139D00] iPadMini4
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C3F35000] iPadMini5
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5123900] iPhone6
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5123A00] iPodTouch6
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5139000] iPhone7
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C513A900] iPodTouch7
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121A00] iPhone5S
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C513A200] iPhone6Plus
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5123D00] iPhone6S
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C513AA00] iPhone6SPlus
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121D00] iPhone7Plus
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C513BC00] iPhoneSE
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5122200] iPhone8
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C513AC00] iPhone8Plus
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5122000] iPhoneX
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5139900] iPhoneXS
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121C00] iPhoneXSMax
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5139A00] iPhoneXR
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121800] iPhone11
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5138500] iPhone11Pro
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5122E00] iPhone11ProMax
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5139200] iPhoneSE2
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5122A00] iPhone12Mini
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C513AF00] iPhone12
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120700] iPhone12Pro
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5139E00] iPhone12ProMax
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5123300] iPadPro105
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C513BD00] iPadPro129
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120800] iPadPro97
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5138600] iPadPro2_129
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5123B00] iPad5
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5138400] iPad6
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5123E00] iPad7
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C513A300] iPad8
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120D00] iPadPro11
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C513AB00] iPadPro2_11
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120300] iPadPro3_129
+[2022.11.16-15.15.06:896][913]LogDeviceProfile: Device profile begin destroy: [00000184C5138700] iPadPro4_129
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121E00] AppleTV
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C513B000] AppleTV4K
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5123100] TVOS
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFB900] Mac
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3FA0C00] MacClient
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFB800] MacNoEditor
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5123600] MacServer
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFA100] Linux
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120600] LinuxAArch64
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFA300] LinuxNoEditor
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121000] LinuxAArch64NoEditor
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF9900] LinuxClient
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5122C00] LinuxAArch64Client
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFBD00] LinuxServer
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5122600] LinuxAArch64Server
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFB600] Android
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121200] Android_Low
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF8A00] Android_Mid
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5122400] Android_High
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFB700] Android_Default
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120E00] Android_Adreno4xx
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFB200] Android_Adreno5xx_Low
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120100] Android_Adreno5xx
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF8600] Android_Adreno6xx
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120200] Android_Adreno6xx_Vulkan
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFB100] Android_Mali_T6xx
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120A00] Android_Mali_T7xx
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF9400] Android_Mali_T8xx
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121B00] Android_Mali_G71
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF9300] Android_Mali_G72
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121F00] Android_Mali_G72_Vulkan
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF9700] Android_Mali_G76
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121900] Android_Mali_G76_Vulkan
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF9100] Android_Mali_G77
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5121500] Android_Mali_G77_Vulkan
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF9C00] Android_Vulkan_SM5
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5123500] Android_PowerVR_G6xxx
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFBE00] Android_PowerVR_GT7xxx
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120400] Android_PowerVR_GE8xxx
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF8D00] Android_PowerVR_GM9xxx
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120C00] Android_PowerVR_GM9xxx_Vulkan
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EF9B00] Android_TegraK1
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5120500] Android_Unknown_Vulkan
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3EFAA00] Lumin
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C5122B00] Lumin_Desktop
+[2022.11.16-15.15.06:897][913]LogDeviceProfile: Device profile begin destroy: [00000184C3F35C00] HoloLens
+[2022.11.16-15.15.06:928][913]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.15.06:963][913]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.16-15.15.06:978][913]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-15.15.06:978][913]LogExit: Editor shut down
+[2022.11.16-15.15.06:979][913]LogExit: Transaction tracking system shut down
+[2022.11.16-15.15.07:303][913]LogExit: Object subsystem successfully closed.
+[2022.11.16-15.15.07:331][913]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.11.16-15.15.07:398][913]LogModuleManager: Shutting down and abandoning module BlueprintGraph (822)
+[2022.11.16-15.15.07:398][913]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (820)
+[2022.11.16-15.15.07:398][913]LogModuleManager: Shutting down and abandoning module Voice (818)
+[2022.11.16-15.15.07:398][913]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2022.11.16-15.15.07:398][913]LogModuleManager: Shutting down and abandoning module SceneOutliner (814)
+[2022.11.16-15.15.07:398][913]LogModuleManager: Shutting down and abandoning module AddContentDialog (812)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module WidgetCarousel (811)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module EditorWidgets (808)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module GooglePADEditor (794)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (792)
+[2022.11.16-15.15.07:399][913]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (786)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (784)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (782)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (780)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module WebMMedia (778)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (776)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (774)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module SequenceRecorder (773)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (770)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (768)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (766)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (764)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (762)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (760)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (758)
+[2022.11.16-15.15.07:400][913]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (756)
+[2022.11.16-15.15.07:401][913]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (754)
+[2022.11.16-15.15.07:402][913]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (752)
+[2022.11.16-15.15.07:402][913]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (750)
+[2022.11.16-15.15.07:402][913]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (748)
+[2022.11.16-15.15.07:402][913]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (746)
+[2022.11.16-15.15.07:402][913]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (744)
+[2022.11.16-15.15.07:402][913]LogModuleManager: Shutting down and abandoning module TextureAlignMode (742)
+[2022.11.16-15.15.07:402][913]LogModuleManager: Shutting down and abandoning module BspMode (740)
+[2022.11.16-15.15.07:402][913]LogModuleManager: Shutting down and abandoning module GeometryMode (738)
+[2022.11.16-15.15.07:402][913]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2022.11.16-15.15.07:403][913]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2022.11.16-15.15.07:403][913]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2022.11.16-15.15.07:403][913]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2022.11.16-15.15.07:403][913]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2022.11.16-15.15.07:403][913]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2022.11.16-15.15.07:403][913]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2022.11.16-15.15.07:404][913]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2022.11.16-15.15.07:404][913]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2022.11.16-15.15.07:404][913]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2022.11.16-15.15.07:404][913]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2022.11.16-15.15.07:405][913]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2022.11.16-15.15.07:405][913]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2022.11.16-15.15.07:405][913]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2022.11.16-15.15.07:406][913]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2022.11.16-15.15.07:407][913]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2022.11.16-15.15.07:407][913]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2022.11.16-15.15.07:408][913]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2022.11.16-15.15.07:408][913]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2022.11.16-15.15.07:408][913]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2022.11.16-15.15.07:408][913]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2022.11.16-15.15.07:408][913]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2022.11.16-15.15.08:168][913]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2022.11.16-15.15.08:168][913]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2022.11.16-15.15.08:168][913]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2022.11.16-15.15.08:168][913]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2022.11.16-15.15.08:168][913]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2022.11.16-15.15.08:174][913]MemoryProfiler: Shutdown
+[2022.11.16-15.15.08:174][913]NetworkingProfiler: Shutdown
+[2022.11.16-15.15.08:174][913]LoadingProfiler: Shutdown
+[2022.11.16-15.15.08:174][913]TimingProfiler: Shutdown
+[2022.11.16-15.15.08:175][913]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2022.11.16-15.15.08:176][913]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2022.11.16-15.15.08:176][913]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2022.11.16-15.15.08:176][913]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2022.11.16-15.15.08:176][913]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2022.11.16-15.15.08:177][913]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2022.11.16-15.15.08:178][913]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2022.11.16-15.15.08:178][913]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2022.11.16-15.15.08:211][913]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2022.11.16-15.15.08:211][913]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2022.11.16-15.15.08:212][913]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2022.11.16-15.15.08:214][913]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2022.11.16-15.15.08:214][913]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2022.11.16-15.15.08:214][913]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2022.11.16-15.15.08:214][913]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2022.11.16-15.15.08:215][913]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2022.11.16-15.15.08:216][913]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2022.11.16-15.15.08:216][913]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2022.11.16-15.15.08:216][913]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2022.11.16-15.15.08:221][913]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2022.11.16-15.15.08:221][913]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2022.11.16-15.15.08:221][913]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2022.11.16-15.15.08:221][913]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2022.11.16-15.15.08:221][913]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2022.11.16-15.15.08:221][913]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2022.11.16-15.15.08:222][913]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2022.11.16-15.15.08:226][913]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2022.11.16-15.15.08:227][913]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2022.11.16-15.15.08:227][913]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2022.11.16-15.15.08:227][913]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2022.11.16-15.15.08:227][913]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2022.11.16-15.15.08:227][913]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2022.11.16-15.15.08:227][913]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2022.11.16-15.15.08:227][913]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2022.11.16-15.15.08:231][913]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2022.11.16-15.15.08:237][913]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2022.11.16-15.15.08:238][913]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2022.11.16-15.15.08:238][913]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2022.11.16-15.15.08:238][913]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2022.11.16-15.15.08:238][913]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2022.11.16-15.15.08:238][913]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2022.11.16-15.15.08:238][913]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2022.11.16-15.15.08:238][913]LogModuleManager: Shutting down and abandoning module SynthesisEditor (548)
+[2022.11.16-15.15.08:238][913]LogModuleManager: Shutting down and abandoning module Synthesis (546)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (544)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (542)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (540)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module GooglePAD (538)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module EditableMesh (536)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (534)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module CableComponent (532)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module AudioCapture (530)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (529)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module AssetTags (526)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (524)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (522)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module AppleImageUtils (520)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module AndroidPermission (518)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (516)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (514)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module ScreenshotTools (512)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (510)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module MotoSynth (508)
+[2022.11.16-15.15.08:239][913]LogModuleManager: Shutting down and abandoning module MeshConversion (506)
+[2022.11.16-15.15.08:240][913]LogModuleManager: Shutting down and abandoning module DynamicMesh (504)
+[2022.11.16-15.15.08:241][913]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (502)
+[2022.11.16-15.15.08:241][913]LogModuleManager: Shutting down and abandoning module GeometricObjects (500)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (498)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (497)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (494)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (492)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (490)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (488)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (486)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module ChaosNiagara (484)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module FractureEditor (482)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (481)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (478)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (476)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module AutomationUtils (474)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module BackChannel (472)
+[2022.11.16-15.15.08:242][913]LogModuleManager: Shutting down and abandoning module AlembicImporter (470)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module AlembicLibrary (469)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module GeometryCache (468)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (467)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module MediaCompositing (462)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module ImgMedia (460)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module TemplateSequence (458)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (456)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (454)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (452)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (450)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (448)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module PluginBrowser (446)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (444)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (442)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (440)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module CurveEditorTools (438)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (436)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module CryptoKeys (434)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (432)
+[2022.11.16-15.15.08:243][913]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (430)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (428)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (426)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module UObjectPlugin (424)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (422)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (420)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module PluginUtils (418)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (416)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (414)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (412)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module GitSourceControl (410)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module SourceControl (409)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (406)
+[2022.11.16-15.15.08:244][913]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (404)
+[2022.11.16-15.15.08:245][913]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (402)
+[2022.11.16-15.15.08:245][913]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (400)
+[2022.11.16-15.15.08:245][913]LogModuleManager: Shutting down and abandoning module Paper2DEditor (398)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (396)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (394)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (392)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (388)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module SignificanceManager (386)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2022.11.16-15.15.08:246][913]LogModuleManager: Shutting down and abandoning module UdpMessaging (372)
+[2022.11.16-15.15.08:347][913]LogModuleManager: Shutting down and abandoning module TcpMessaging (370)
+[2022.11.16-15.15.08:467][913]LogModuleManager: Shutting down and abandoning module ActorSequence (368)
+[2022.11.16-15.15.08:467][913]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (366)
+[2022.11.16-15.15.08:467][913]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (364)
+[2022.11.16-15.15.08:467][913]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (362)
+[2022.11.16-15.15.08:467][913]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (360)
+[2022.11.16-15.15.08:467][913]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (358)
+[2022.11.16-15.15.08:467][913]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.11.16-15.15.08:468][913]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (356)
+[2022.11.16-15.15.08:468][913]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (354)
+[2022.11.16-15.15.08:468][913]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (352)
+[2022.11.16-15.15.08:468][913]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (350)
+[2022.11.16-15.15.08:468][913]LogModuleManager: Shutting down and abandoning module MagicLeapController (348)
+[2022.11.16-15.15.08:469][913]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.16-15.15.08:469][913]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (346)
+[2022.11.16-15.15.08:469][913]LogModuleManager: Shutting down and abandoning module MagicLeapAR (344)
+[2022.11.16-15.15.08:469][913]LogModuleManager: Shutting down and abandoning module AugmentedReality (343)
+[2022.11.16-15.15.08:469][913]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (340)
+[2022.11.16-15.15.08:469][913]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (338)
+[2022.11.16-15.15.08:469][913]LogModuleManager: Shutting down and abandoning module FacialAnimation (336)
+[2022.11.16-15.15.08:469][913]LogModuleManager: Shutting down and abandoning module DataValidation (334)
+[2022.11.16-15.15.08:469][913]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (332)
+[2022.11.16-15.15.08:469][913]LogModuleManager: Shutting down and abandoning module LevelEditor (331)
+[2022.11.16-15.15.08:470][913]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (330)
+[2022.11.16-15.15.08:470][913]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (328)
+[2022.11.16-15.15.08:470][913]LogModuleManager: Shutting down and abandoning module MainFrame (326)
+[2022.11.16-15.15.08:470][913]LogModuleManager: Shutting down and abandoning module HotReload (325)
+[2022.11.16-15.15.08:470][913]LogModuleManager: Shutting down and abandoning module ToolMenus (321)
+[2022.11.16-15.15.08:470][913]LogModuleManager: Shutting down and abandoning module ContentBrowser (319)
+[2022.11.16-15.15.08:471][913]LogModuleManager: Shutting down and abandoning module ContentBrowserData (318)
+[2022.11.16-15.15.08:471][913]LogModuleManager: Shutting down and abandoning module TreeMap (315)
+[2022.11.16-15.15.08:471][913]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (312)
+[2022.11.16-15.15.08:471][913]LogModuleManager: Shutting down and abandoning module AnimationSharing (310)
+[2022.11.16-15.15.08:471][913]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (308)
+[2022.11.16-15.15.08:471][913]LogModuleManager: Shutting down and abandoning module Niagara (306)
+[2022.11.16-15.15.08:471][913]LogModuleManager: Shutting down and abandoning module SignalProcessing (305)
+[2022.11.16-15.15.08:471][913]LogModuleManager: Shutting down and abandoning module NiagaraEditor (303)
+[2022.11.16-15.15.08:471][913]LogModuleManager: Shutting down and abandoning module NiagaraCore (300)
+[2022.11.16-15.15.08:471][913]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (298)
+[2022.11.16-15.15.08:472][913]LogModuleManager: Shutting down and abandoning module Paper2D (296)
+[2022.11.16-15.15.08:472][913]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (294)
+[2022.11.16-15.15.08:472][913]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2022.11.16-15.15.08:475][913]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2022.11.16-15.15.08:475][913]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.11.16-15.15.08:475][913]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.11.16-15.15.08:475][913]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.11.16-15.15.08:475][913]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.11.16-15.15.08:476][913]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.11.16-15.15.08:476][913]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.11.16-15.15.08:476][913]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.11.16-15.15.08:476][913]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.11.16-15.15.08:477][913]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.11.16-15.15.08:477][913]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.11.16-15.15.08:477][913]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.11.16-15.15.08:480][913]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.11.16-15.15.08:480][913]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.11.16-15.15.08:482][913]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.11.16-15.15.08:482][913]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.11.16-15.15.08:485][913]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.11.16-15.15.08:485][913]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.11.16-15.15.08:485][913]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.11.16-15.15.08:486][913]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.11.16-15.15.08:486][913]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.11.16-15.15.08:487][913]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.11.16-15.15.08:488][913]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.11.16-15.15.08:489][913]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.11.16-15.15.08:490][913]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.11.16-15.15.08:490][913]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.11.16-15.15.08:490][913]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.11.16-15.15.08:490][913]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.11.16-15.15.08:490][913]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.11.16-15.15.08:490][913]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.11.16-15.15.08:491][913]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.11.16-15.15.08:491][913]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.11.16-15.15.08:491][913]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.11.16-15.15.08:491][913]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.11.16-15.15.08:491][913]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.11.16-15.15.08:491][913]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.11.16-15.15.08:492][913]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.11.16-15.15.08:492][913]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.11.16-15.15.08:492][913]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.11.16-15.15.08:492][913]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.11.16-15.15.08:492][913]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.11.16-15.15.08:492][913]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2022.11.16-15.15.08:493][913]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2022.11.16-15.15.08:497][913]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2022.11.16-15.15.08:497][913]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2022.11.16-15.15.08:497][913]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2022.11.16-15.15.08:497][913]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2022.11.16-15.15.08:497][913]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2022.11.16-15.15.08:499][913]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2022.11.16-15.15.08:499][913]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2022.11.16-15.15.08:499][913]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2022.11.16-15.15.08:499][913]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2022.11.16-15.15.08:499][913]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2022.11.16-15.15.08:499][913]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2022.11.16-15.15.08:499][913]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.11.16-15.15.08:499][913]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2022.11.16-15.15.08:499][913]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2022.11.16-15.15.08:501][913]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2022.11.16-15.15.08:511][913]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2022.11.16-15.15.08:511][913]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2022.11.16-15.15.08:511][913]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2022.11.16-15.15.08:511][913]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2022.11.16-15.15.08:511][913]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.11.16-15.15.08:511][913]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.11.16-15.15.08:512][913]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.11.16-15.15.08:512][913]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.11.16-15.15.08:512][913]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.11.16-15.15.08:512][913]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.11.16-15.15.08:512][913]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.11.16-15.15.08:512][913]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.11.16-15.15.08:512][913]LogHMD: Freeing OpenVRDLLHandle.
+[2022.11.16-15.15.08:512][913]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.11.16-15.15.08:512][913]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.11.16-15.15.08:512][913]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.11.16-15.15.08:513][913]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.11.16-15.15.08:513][913]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.11.16-15.15.08:514][913]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.11.16-15.15.08:514][913]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.11.16-15.15.08:521][913]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.11.16-15.15.08:522][913]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.11.16-15.15.08:522][913]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B62597782-4042-F0E2-EE5A-D9A695D640A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=59bc1d23425fd6748e4dcb96a87e1bca%7C4e3a91fc7669412ab968e535a1d7a011%7C0780a454-8e90-4351-955a-81b6aee01dd8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.11.16-15.15.08:522][913]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.11.16-15.15.08:532][913]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.11.16-15.15.08:533][913]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2022.11.16-15.15.08:533][913]LogModuleManager: Shutting down and abandoning module ChaosCloth (72)
+[2022.11.16-15.15.08:533][913]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.11.16-15.15.08:534][913]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.11.16-15.15.08:535][913]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.11.16-15.15.08:535][913]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.11.16-15.15.08:535][913]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2022.11.16-15.15.08:535][913]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2022.11.16-15.15.08:535][913]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2022.11.16-15.15.08:535][913]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2022.11.16-15.15.08:536][913]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2022.11.16-15.15.08:536][913]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2022.11.16-15.15.08:536][913]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.11.16-15.15.08:536][913]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.11.16-15.15.08:536][913]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.11.16-15.15.08:536][913]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.11.16-15.15.08:536][913]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.11.16-15.15.08:536][913]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.11.16-15.15.08:536][913]LogXGEController: Cleaning working directory: C:/Users/5926008386/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.11.16-15.15.08:536][913]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.11.16-15.15.08:537][913]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.11.16-15.15.08:537][913]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.11.16-15.15.08:537][913]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.11.16-15.15.08:537][913]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.11.16-15.15.08:537][913]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.11.16-15.15.08:537][913]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.11.16-15.15.08:539][913]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.11.16-15.15.08:539][913]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.11.16-15.15.08:539][913]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.11.16-15.15.08:539][913]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.11.16-15.15.08:540][913]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.11.16-15.15.08:540][913]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.11.16-15.15.08:540][913]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.11.16-15.15.08:540][913]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.11.16-15.15.08:540][913]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.11.16-15.15.08:540][913]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.11.16-15.15.08:540][913]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.11.16-15.15.08:540][913]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.11.16-15.15.08:540][913]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.11.16-15.15.08:543][913]LogD3D11RHI: Shutdown
+[2022.11.16-15.15.08:543][913]LogD3D11RHI: CleanupD3DDevice
+[2022.11.16-15.15.08:552][913]LogExit: Exiting.
+[2022.11.16-15.15.08:562][913]Log file closed, 11/16/22 10:15:08
