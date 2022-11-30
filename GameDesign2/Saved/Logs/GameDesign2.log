@@ -899,3 +899,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.30-14.06.57:842][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.11.30-14.06.57:866][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2022.11.30-14.06.57:880][272]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.11.30-14.11.57:739][481]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.30-14.11.57:745][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-14.11.57:745][481]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 30, 2022, 4:11:57 AM)
+[2022.11.30-14.11.57:783][481]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.11.30-14.11.57:786][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002550s)
+[2022.11.30-14.11.57:787][481]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.30-14.11.57:787][481]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.11.30-14.11.57:787][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003686s)
+[2022.11.30-14.11.57:792][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.30-14.11.57:792][481]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.30-14.11.57:792][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-14.11.57:792][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-14.11.57:792][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-14.11.57:792][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-14.11.57:792][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-14.11.57:792][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-14.11.57:792][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-14.11.57:792][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-14.11.57:792][481]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.30-14.11.57:792][481]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-14.11.57:796][481]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-14.11.57:796][481]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-14.11.57:903][481]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.30-14.11.57:904][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-14.11.57:904][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-14.11.57:904][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-14.11.57:904][481]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-14.11.57:904][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-14.11.57:904][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-14.11.57:914][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-14.11.57:914][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-14.11.57:915][481]LogInit: FAudioDevice initialized.
+[2022.11.30-14.11.57:915][481]LogAudio: Display: Audio Device (ID: 4) registered with world '2DSideScrollerExampleMap'.
+[2022.11.30-14.11.57:920][481]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.11.30-14.11.57:922][481]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.11.30-09.11.57
+[2022.11.30-14.11.57:922][481]LogWorld: Bringing up level for play took: 0.000750
+[2022.11.30-14.11.57:922][481]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.11.30-14.11.57:924][481]PIE: Server logged in
+[2022.11.30-14.11.57:925][481]PIE: Play in editor total start time 0.182 seconds.
