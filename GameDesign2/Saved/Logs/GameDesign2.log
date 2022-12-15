@@ -23851,3 +23851,55 @@ Script Stack (0 frames):
 [2022.12.15-14.11.34:184][324]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2022.12.15-14.11.34:184][324]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 [2022.12.15-14.11.34:184][324]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Textures/Level1.Level1
+[2022.12.15-14.12.32:654][924]Cmd: TRANSACTION UNDO
+[2022.12.15-14.12.32:654][924]LogEditorTransaction: Undo Tile Painting
+[2022.12.15-14.12.52:241][ 81]Cmd: TRANSACTION UNDO
+[2022.12.15-14.12.52:241][ 81]LogEditorTransaction: Undo Tile Painting
+[2022.12.15-14.13.16:346][491]LogSavePackage: Moving '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Saved/Level141D9739541CA6F38A0FA2E8D894ED407.tmp' to '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Level1.uasset'
+[2022.12.15-14.13.16:384][491]AssetCheck: New page: Asset Save: Level1
+[2022.12.15-14.13.16:384][491]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Textures/Level1.Level1
+[2022.12.15-14.13.18:413][615]LogSlate: Window 'Level1' being destroyed
+[2022.12.15-14.13.18:433][615]LogSlate: Window 'Level1' being destroyed
+[2022.12.15-14.13.18:464][615]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.15-14.13.18:464][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-14.13.20:926][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.15-14.13.20:944][868]LogSavePackage: Moving '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMapF362CB9645D6F116D24FD09463696759.tmp' to '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.15-14.13.21:074][868]LogSavePackage: Moving '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap_BuiltDa954AD57E4CA3921AAFF5A39524B03887.tmp' to '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.15-14.13.21:084][868]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.15-14.13.21:084][868]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.15-14.13.21:084][868]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.15-14.13.26:324][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:325][302]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/5926009039/Documents/GitHub/GameDesign2'
+[2022.12.15-14.13.26:763][302]LogSavePackage: Moving '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Saved/Level133DCF61E43A410BD69AEF88D519390DD.tmp' to '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Level1.uasset'
+[2022.12.15-14.13.26:779][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.12.15-14.13.26:789][302]LogSavePackage: Moving '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMapF966EDCC4B9B7A0DC3326EAB70020EC4.tmp' to '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.15-14.13.26:798][302]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.034
+[2022.12.15-14.13.26:799][302]LogSavePackage: Moving '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap_BuiltDa5110FFCD457F1BBF04391582D232F7DC.tmp' to '../../../../../Users/5926009039/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.15-14.13.58:790][302]LogSlate: Window 'Submit Files' being destroyed
+[2022.12.15-14.13.59:203][302]LogSourceControl: commit successful: [Pow b4204f2] Changed Level 1 to be slightly easier
+[2022.12.15-14.13.59:367][302]SourceControl: [Pow b4204f2] Changed Level 1 to be slightly easier
+[2022.12.15-14.13.59:367][302]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2022.12.15-14.13.59:373][302]SourceControl: Commited [Pow b4204f2] Changed Level 1 to be slightly easier.
+[2022.12.15-14.13.59:412][303]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.15-14.13.59:412][303]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.15-14.13.59:412][303]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.15-14.13.59:412][303]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Textures/Level1.Level1
