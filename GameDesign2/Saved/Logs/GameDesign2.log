@@ -1426,3 +1426,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.15-13.49.59:917][554]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/FlipBooks/PC_JumpDown.PC_JumpDown
 [2022.12.15-13.49.59:917][554]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/FlipBooks/PC_Hurt.PC_Hurt
 [2022.12.15-13.49.59:917][554]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/FlipBooks/PC_JumpUp.PC_JumpUp
+[2022.12.15-13.50.47:628][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.15-13.50.47:641][498]LogSavePackage: Moving '../../../../../Users/5926009315/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap1F8F335F4D13391476305EA45E8D7BCF.tmp' to '../../../../../Users/5926009315/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.15-13.50.47:779][498]LogSavePackage: Moving '../../../../../Users/5926009315/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Saved/2DSideScrollerExampleMap_BuiltDaA8B49C2E43C8C23A8CFDACABB6185715.tmp' to '../../../../../Users/5926009315/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.15-13.50.47:788][498]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.15-13.50.47:789][498]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.15-13.50.47:789][498]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
