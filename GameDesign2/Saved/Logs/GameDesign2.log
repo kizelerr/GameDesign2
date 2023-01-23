@@ -1165,3 +1165,263 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.23-15.53.22:822][ 23]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/MenuTextures/ABduction.ABduction
 [2023.01.23-15.53.22:823][ 23]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/MenuTextures/Exposure_1.Exposure_1
 [2023.01.23-15.53.22:823][ 23]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/StartMenu.StartMenu
+[2023.01.23-15.53.53:586][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.01.23-15.53.59:885][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:885][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:885][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.53.59:886][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-15.54.00:205][548]EditorErrors: Warning: No assets to check in!
+[2023.01.23-15.55.05:937][285]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/5926001686/Downloads/Explosion.png)
+[2023.01.23-15.55.05:941][285]LogTexture: Display: Building textures: Explosion (OODLE_AutoDXT, 480X480)
+[2023.01.23-15.55.18:035][707]LogTexture: Display: Building textures: Explosion (BGRA8, 480X480)
+[2023.01.23-15.57.06:872][359]LogSlate: Window 'Extract sprites' being destroyed
+[2023.01.23-15.57.13:403][590]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/Explosion.Explosion
+[2023.01.23-15.57.13:422][590]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2023.01.23-15.57.29:647][ 43]LogSlate: Window 'Explosion' being destroyed
+[2023.01.23-15.57.29:684][ 43]LogSlate: Window 'Explosion' being destroyed
+[2023.01.23-15.57.29:702][ 43]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-15.57.29:702][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-15.57.29:719][ 43]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-15.57.29:719][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-15.57.29:776][ 43]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-15.57.29:777][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-15.58.12:453][914]LogSlate: Window 'Extract sprites' being destroyed
+[2023.01.23-15.58.29:666][445]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2023.01.23-15.58.29:666][445]LogContentBrowser: Deferred new asset file creation: Explosion1
+[2023.01.23-15.58.29:699][445]LogContentBrowser: Creating deferred item: Explosion1
+[2023.01.23-15.58.32:115][523]LogContentBrowser: Attempting asset rename: Explosion1 -> Explosion1
+[2023.01.23-15.58.32:304][523]LogContentBrowser: End creating deferred item Explosion1
+[2023.01.23-15.58.34:111][579]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Textures/Explosion1.Explosion1
+[2023.01.23-15.58.34:318][579]LogRenderer: Reallocating scene render targets to support 1528x788 Format 10 NumSamples 1 (Frame:1).
+[2023.01.23-15.58.59:305][969]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion12A2D73FA4504DDC602096C97C03A09A2.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion1.uasset'
+[2023.01.23-15.58.59:587][969]AssetCheck: New page: Asset Save: Explosion1
+[2023.01.23-15.58.59:587][969]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Textures/Explosion1.Explosion1
+[2023.01.23-15.59.07:787][182]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion156E3900843F6648ED2510AA2CFD12E25.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/Explosion1.uasset'
+[2023.01.23-15.59.08:581][182]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2023.01.23-15.59.08:713][182]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2023.01.23-15.59.08:735][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.01.23-15.59.08:977][182]SourceControl: rm 'GameDesign2/Content/2DSideScroller/Textures/Explosion1.uasset'
+[2023.01.23-15.59.09:029][182]AssetCheck: New page: Asset Save: Explosion1
+[2023.01.23-15.59.09:029][182]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/Explosion1.Explosion1
+[2023.01.23-15.59.26:802][673]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.23-15.59.26:806][673]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.23-15.59.28:089][673]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.23-15.59.28:097][673]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.23-15.59.28:133][673]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.23-15.59.33:437][759]LogContentBrowser: Attempting asset rename: NewBlueprint -> Explosion
+[2023.01.23-15.59.33:707][759]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.23-15.59.35:353][784]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Explosion.Explosion
+[2023.01.23-15.59.35:977][785]LogRenderer: Reallocating scene render targets to support 1528x900 Format 10 NumSamples 1 (Frame:1).
+[2023.01.23-15.59.50:386][987]BlueprintLog: New page: Compile Explosion
+[2023.01.23-15.59.50:484][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.01.23-15.59.58:919][172]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2023.01.23-16.00.49:172][323]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.23-16.00.49:197][323]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.23-16.01.01:044][598]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2023.01.23-16.01.01:060][598]LogBlueprint: Error: [AssetLog] C:\Users\5926001686\OneDrive - School Board of Seminole County\Documents\GitHub2\GameDesign2\GameDesign2\Content\2DSideScrollerBP\Blueprints\2DSideScrollerCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.01.23-16.01.01:062][598]LogBlueprint: Error: [AssetLog] C:\Users\5926001686\OneDrive - School Board of Seminole County\Documents\GitHub2\GameDesign2\GameDesign2\Content\2DSideScrollerBP\Blueprints\2DSideScrollerCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.01.23-16.01.01:120][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.01.23-16.01.41:839][551]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2023.01.23-16.01.41:918][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.01.23-16.01.43:155][572]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/2DSideScrollerCharacter06F6AD7A4FB12C436EC297B224984CA6.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2023.01.23-16.01.43:174][572]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2023.01.23-16.01.43:174][572]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2023.01.23-16.01.45:140][627]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.23-16.01.45:147][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.23-16.01.45:147][627]PIE: New page: PIE session: StartMenu (Jan 23, 2023, 6:01:45 AM)
+[2023.01.23-16.01.45:148][627]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_StartMenu
+[2023.01.23-16.01.45:149][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001169s)
+[2023.01.23-16.01.45:150][627]LogAIModule: Creating AISystem for world StartMenu
+[2023.01.23-16.01.45:150][627]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2023.01.23-16.01.45:150][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/StartMenu.StartMenu to /Game/2DSideScrollerBP/Maps/UEDPIE_0_StartMenu.StartMenu (0.002575s)
+[2023.01.23-16.01.45:185][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.01.23-16.01.45:186][627]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.23-16.01.45:186][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.23-16.01.45:186][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.23-16.01.45:186][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.23-16.01.45:186][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.23-16.01.45:186][627]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.23-16.01.45:186][627]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.23-16.01.45:186][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.23-16.01.45:186][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.23-16.01.45:187][627]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.23-16.01.45:187][627]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.23-16.01.45:187][627]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.23-16.01.45:187][627]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.23-16.01.45:194][627]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.23-16.01.45:194][627]LogAudioMixer: Display: 1: FrontRight
+[2023.01.23-16.01.45:228][627]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.01.23-16.01.45:228][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.23-16.01.45:228][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.23-16.01.45:228][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.23-16.01.45:229][627]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.23-16.01.45:229][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.23-16.01.45:229][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.23-16.01.45:230][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.23-16.01.45:230][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.23-16.01.45:230][627]LogInit: FAudioDevice initialized.
+[2023.01.23-16.01.45:230][627]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMenu'.
+[2023.01.23-16.01.45:239][627]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.23-16.01.45:240][627]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_StartMenu.StartMenu up for play (max tick rate 0) at 2023.01.23-11.01.45
+[2023.01.23-16.01.45:241][627]LogWorld: Bringing up level for play took: 0.000330
+[2023.01.23-16.01.45:241][627]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.01.23-16.01.45:244][627]PIE: Server logged in
+[2023.01.23-16.01.45:245][627]PIE: Play in editor total start time 0.099 seconds.
+[2023.01.23-16.01.46:636][678]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial1
+[2023.01.23-16.01.46:636][678]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial1
+[2023.01.23-16.01.46:636][678]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_StartMenu
+[2023.01.23-16.01.46:637][678]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-16.01.46:637][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-16.01.46:667][678]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.23-16.01.46:671][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.01.23-16.01.46:690][678]LogAudio: Display: Audio Device (ID: 4) registered with world 'Tutorial1'.
+[2023.01.23-16.01.46:691][678]LogAIModule: Creating AISystem for world Tutorial1
+[2023.01.23-16.01.46:691][678]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.23-16.01.46:695][678]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial1.Tutorial1 up for play (max tick rate 0) at 2023.01.23-11.01.46
+[2023.01.23-16.01.46:696][678]LogWorld: Bringing up level for play took: 0.003112
+[2023.01.23-16.01.46:697][678]LogLoad: Took 0.060130 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial1)
+[2023.01.23-16.01.54:861][972]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial1
+[2023.01.23-16.01.54:862][972]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial1
+[2023.01.23-16.01.54:862][972]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial1
+[2023.01.23-16.01.54:862][972]LogWorld: UWorld::CleanupWorld for Tutorial1, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-16.01.54:862][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-16.01.54:894][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.23-16.01.54:898][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.01.23-16.01.54:917][972]LogAudio: Display: Audio Device (ID: 4) registered with world 'Tutorial1'.
+[2023.01.23-16.01.54:918][972]LogAIModule: Creating AISystem for world Tutorial1
+[2023.01.23-16.01.54:919][972]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.23-16.01.54:922][972]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial1.Tutorial1 up for play (max tick rate 0) at 2023.01.23-11.01.54
+[2023.01.23-16.01.54:922][972]LogWorld: Bringing up level for play took: 0.002942
+[2023.01.23-16.01.54:924][972]LogLoad: Took 0.062488 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial1)
+[2023.01.23-16.01.58:795][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-16.01.58:795][119]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial1
+[2023.01.23-16.01.58:795][119]LogWorld: UWorld::CleanupWorld for Tutorial1, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-16.01.58:795][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-16.01.58:835][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.23-16.01.58:840][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-16.01.58:870][119]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.23-16.01.58:870][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.23-16.01.58:871][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.23-16.01.58:876][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-16.01.58:879][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.01.23-16.01.58:904][120]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.01.23-16.02.17:636][530]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2023.01.23-16.02.17:712][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.01.23-16.02.23:157][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.01.23-16.02.23:534][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/2DSideScrollerCharacterA5EDD60240B2FCF5D84432956D5AC33B.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2023.01.23-16.02.23:551][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion620CD20C4978149CC1AA0F9DD397138D.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion.uasset'
+[2023.01.23-16.02.23:826][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_0F96DC16F4453A16C52486CB6F518DCF3.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_0.uasset'
+[2023.01.23-16.02.24:084][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_1838651A04025B6D4D0C9228E4C2B31D9.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_1.uasset'
+[2023.01.23-16.02.24:381][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_247C70F804786F1CA370B7EBC36A7DB3B.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_2.uasset'
+[2023.01.23-16.02.24:635][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_3217E450C4910EFF5DD3A84AE1F2CE292.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_3.uasset'
+[2023.01.23-16.02.24:906][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_49E5FB25942395701712A4397712B1B13.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_4.uasset'
+[2023.01.23-16.02.25:152][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_5D0BA8B424A541925C8B863AF8002A882.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_5.uasset'
+[2023.01.23-16.02.25:423][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_639B5061344E3EBE030C414B921FF4A8D.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_6.uasset'
+[2023.01.23-16.02.25:667][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_738ED38AE4D3927715653F291D01C671A.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_7.uasset'
+[2023.01.23-16.02.25:951][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_87F41286F4D9D39B697718389A0FCF20E.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_8.uasset'
+[2023.01.23-16.02.26:209][675]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion28FC9D704790C94D8E85F4AF5F000D83.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Blueprints/Explosion.uasset'
+[2023.01.23-16.02.26:482][675]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/Explosion.Explosion
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/Explosion.Explosion
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_0.Explosion_Sprite_0
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_1.Explosion_Sprite_1
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_2.Explosion_Sprite_2
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_3.Explosion_Sprite_3
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_4.Explosion_Sprite_4
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_5.Explosion_Sprite_5
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_6.Explosion_Sprite_6
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_7.Explosion_Sprite_7
+[2023.01.23-16.02.26:482][675]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_8.Explosion_Sprite_8
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:702][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:703][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:703][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:703][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:703][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:703][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:703][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:703][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:703][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:703][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.39:703][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2'
+[2023.01.23-16.02.40:406][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion17DD46FEE42C5AE04BA83E280DEF770DA.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Animations/Explosion1.uasset'
+[2023.01.23-16.02.40:410][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/ExplosionD6DB26A44CE89211EDAB6CA7F03935B5.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion.uasset'
+[2023.01.23-16.02.40:415][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_06F3CD0E948A301AF7980D8AA68924554.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_0.uasset'
+[2023.01.23-16.02.40:420][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_1A1231E8441164324E4BEF3B499BEF420.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_1.uasset'
+[2023.01.23-16.02.40:424][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_2169838EE4F7B8418960D2099982921B9.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_2.uasset'
+[2023.01.23-16.02.40:428][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_3BB10D8DE4ECB07C86EFEA9A65B935779.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_3.uasset'
+[2023.01.23-16.02.40:433][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_4269ADB314F76E7CBE023549469B3B0A2.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_4.uasset'
+[2023.01.23-16.02.40:437][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_561018E3B4C07366F6D68C9AF9573DBD0.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_5.uasset'
+[2023.01.23-16.02.40:441][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_64EEF118C47F5CBAC355723A491F4604F.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_6.uasset'
+[2023.01.23-16.02.40:446][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_7838B9A35426991FBC0D350B37D54402A.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_7.uasset'
+[2023.01.23-16.02.40:450][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion_Sprite_869E350114AD0AD4C03EC39B76AD440D4.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_8.uasset'
+[2023.01.23-16.02.40:539][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/2DSideScrollerCharacterD027A3D9472710D64444B086CE99AB5D.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2023.01.23-16.02.40:547][ 63]LogSavePackage: Moving '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Saved/Explosion6B966B0946DB4E2F156E8A9C82FC99E3.tmp' to '../../../../../../Users/5926001686/OneDrive - School Board of Seminole County/Documents/GitHub2/GameDesign2/GameDesign2/Content/2DSideScrollerBP/Blueprints/Explosion.uasset'
+[2023.01.23-16.02.47:446][ 63]LogSlate: Window 'Submit Files' being destroyed
+[2023.01.23-16.02.48:358][ 63]LogSourceControl: commit successful: [LBriggsBranch 921c986] added explosion
+[2023.01.23-16.02.48:698][ 63]SourceControl: [LBriggsBranch 921c986] added explosion
+[2023.01.23-16.02.48:698][ 63]SourceControl:  13 files changed, 0 insertions(+), 0 deletions(-)
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Animations/Explosion1.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/Explosion.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_0.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_1.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_2.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_3.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_4.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_5.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_6.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_7.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScroller/Textures/Explosion_Sprite_8.uasset
+[2023.01.23-16.02.48:698][ 63]SourceControl:  create mode 100644 GameDesign2/Content/2DSideScrollerBP/Blueprints/Explosion.uasset
+[2023.01.23-16.02.48:704][ 63]SourceControl: Commited [LBriggsBranch 921c986] added explosion.
+[2023.01.23-16.02.48:744][ 64]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.23-16.02.48:744][ 64]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/Explosion.Explosion
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/Explosion.Explosion
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_0.Explosion_Sprite_0
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_1.Explosion_Sprite_1
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_2.Explosion_Sprite_2
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_3.Explosion_Sprite_3
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_4.Explosion_Sprite_4
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_5.Explosion_Sprite_5
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_6.Explosion_Sprite_6
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_7.Explosion_Sprite_7
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/Explosion_Sprite_8.Explosion_Sprite_8
+[2023.01.23-16.02.48:745][ 64]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/Explosion1.Explosion1
